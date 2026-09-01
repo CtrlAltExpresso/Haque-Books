@@ -11,5 +11,3 @@
 | **Size** | 78.1 MB |
 
 One click above downloads just this book's PDF (Applied Mechanics.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

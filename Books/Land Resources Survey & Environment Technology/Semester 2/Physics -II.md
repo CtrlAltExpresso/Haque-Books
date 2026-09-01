@@ -11,5 +11,3 @@
 | **Size** | 133.4 MB |
 
 One click above downloads just this book's PDF (Physics -II.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`land-resources-survey-environment-technology.zip`](https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip)

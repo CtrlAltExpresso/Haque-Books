@@ -11,5 +11,3 @@
 | **Size** | 101.4 MB |
 
 One click above downloads just this book's PDF (Basic Electronics.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-aerospace.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip)

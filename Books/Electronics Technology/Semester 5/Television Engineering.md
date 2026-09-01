@@ -11,5 +11,3 @@
 | **Size** | 141.9 MB |
 
 One click above downloads just this book's PDF (Television Engineering.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

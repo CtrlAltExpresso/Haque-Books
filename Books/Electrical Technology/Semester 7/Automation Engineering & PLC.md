@@ -11,5 +11,3 @@
 | **Size** | 110.3 MB |
 
 One click above downloads just this book's PDF (Automation Engineering & PLC.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

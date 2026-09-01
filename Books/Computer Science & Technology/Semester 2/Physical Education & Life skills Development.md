@@ -11,5 +11,3 @@
 | **Size** | 68.0 MB |
 
 One click above downloads just this book's PDF (Physical Education & Life skills Development.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

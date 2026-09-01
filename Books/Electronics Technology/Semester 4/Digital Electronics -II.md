@@ -11,5 +11,3 @@
 | **Size** | 68.4 MB |
 
 One click above downloads just this book's PDF (Digital Electronics -II.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

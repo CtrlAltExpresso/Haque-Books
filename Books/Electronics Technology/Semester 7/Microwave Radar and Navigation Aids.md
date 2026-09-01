@@ -11,5 +11,3 @@
 | **Size** | 91.5 MB |
 
 One click above downloads just this book's PDF (Microwave Radar and Navigation Aids.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

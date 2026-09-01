@@ -11,5 +11,3 @@
 | **Size** | 114.3 MB |
 
 One click above downloads just this book's PDF (Computer Office Application.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

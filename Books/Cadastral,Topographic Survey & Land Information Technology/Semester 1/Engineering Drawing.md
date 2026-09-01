@@ -11,5 +11,3 @@
 | **Size** | 68.0 MB |
 
 One click above downloads just this book's PDF (Engineering Drawing.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`cadastral-topographic-survey-land-information-technology.zip`](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip)

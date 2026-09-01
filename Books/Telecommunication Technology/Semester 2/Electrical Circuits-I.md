@@ -11,5 +11,3 @@
 | **Size** | 89.7 MB |
 
 One click above downloads just this book's PDF (Electrical Circuits-I.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`telecommunication-technology.zip`](https://archive.org/download/haque-books-telecommunication-technology/telecommunication-technology.zip)

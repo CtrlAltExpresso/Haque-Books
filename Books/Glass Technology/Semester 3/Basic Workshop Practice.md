@@ -11,5 +11,3 @@
 | **Size** | 106.9 MB |
 
 One click above downloads just this book's PDF (Basic Workshop Practice.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`glass-technology.zip`](https://archive.org/download/haque-books-glass-technology/glass-technology.zip)

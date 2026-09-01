@@ -11,5 +11,3 @@
 | **Size** | 68.0 MB |
 
 One click above downloads just this book's PDF (Engineering Drawing.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`telecommunication-technology.zip`](https://archive.org/download/haque-books-telecommunication-technology/telecommunication-technology.zip)

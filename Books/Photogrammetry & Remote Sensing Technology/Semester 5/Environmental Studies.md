@@ -11,5 +11,3 @@
 | **Size** | 139.7 MB |
 
 One click above downloads just this book's PDF (Environmental Studies.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

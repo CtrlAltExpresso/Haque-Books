@@ -11,5 +11,3 @@
 | **Size** | 112.1 MB |
 
 One click above downloads just this book's PDF (Electronic Devices and.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

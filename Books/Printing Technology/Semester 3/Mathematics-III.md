@@ -11,5 +11,3 @@
 | **Size** | 80.8 MB |
 
 One click above downloads just this book's PDF (Mathematics-III.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`printing-technology.zip`](https://archive.org/download/haque-books-printing-technology/printing-technology.zip)

@@ -11,5 +11,3 @@
 | **Size** | 138.6 MB |
 
 One click above downloads just this book's PDF (Fluid Mechanics & Machineries.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`rac-technology.zip`](https://archive.org/download/haque-books-rac-technology/rac-technology.zip)

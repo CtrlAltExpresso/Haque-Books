@@ -11,5 +11,3 @@
 | **Size** | 118.6 MB |
 
 One click above downloads just this book's PDF (Innovation & Entrepreneurship.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`footwear-technology.zip`](https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip)

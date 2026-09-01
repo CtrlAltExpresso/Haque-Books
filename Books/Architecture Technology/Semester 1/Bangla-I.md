@@ -11,5 +11,3 @@
 | **Size** | 110.2 MB |
 
 One click above downloads just this book's PDF (Bangla-I.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

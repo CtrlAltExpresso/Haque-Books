@@ -11,5 +11,3 @@
 | **Size** | 92.0 MB |
 
 One click above downloads just this book's PDF (Construction Management & Documentation.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

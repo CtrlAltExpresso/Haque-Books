@@ -11,5 +11,3 @@
 | **Size** | 36.9 MB |
 
 One click above downloads just this book's PDF (Electronic Appliances.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

@@ -11,5 +11,3 @@
 | **Size** | 105.9 MB |
 
 One click above downloads just this book's PDF (Mechanical Measurement & Metrology.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

@@ -11,5 +11,3 @@
 | **Size** | 149.7 MB |
 
 One click above downloads just this book's PDF (Social Science.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`glass-technology.zip`](https://archive.org/download/haque-books-glass-technology/glass-technology.zip)

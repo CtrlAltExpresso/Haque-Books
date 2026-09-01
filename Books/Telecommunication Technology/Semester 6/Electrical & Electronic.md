@@ -11,5 +11,3 @@
 | **Size** | 69.1 MB |
 
 One click above downloads just this book's PDF (Electrical & Electronic.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`telecommunication-technology.zip`](https://archive.org/download/haque-books-telecommunication-technology/telecommunication-technology.zip)

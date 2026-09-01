@@ -11,5 +11,3 @@
 | **Size** | 69.1 MB |
 
 One click above downloads just this book's PDF (of Eectrical Power Electrical & Electronic Measurements-II.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

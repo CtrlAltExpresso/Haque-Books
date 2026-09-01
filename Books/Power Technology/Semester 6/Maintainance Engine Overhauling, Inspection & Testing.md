@@ -11,5 +11,3 @@
 | **Size** | 101.1 MB |
 
 One click above downloads just this book's PDF (Maintainance Engine Overhauling, Inspection & Testing.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

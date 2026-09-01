@@ -11,5 +11,3 @@
 | **Size** | 84.4 MB |
 
 One click above downloads just this book's PDF (Surveillance Security System.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

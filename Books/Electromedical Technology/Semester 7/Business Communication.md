@@ -11,5 +11,3 @@
 | **Size** | 60.6 MB |
 
 One click above downloads just this book's PDF (Business Communication.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electromedical-technology.zip`](https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip)

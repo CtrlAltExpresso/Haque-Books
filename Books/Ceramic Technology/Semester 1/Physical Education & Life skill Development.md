@@ -11,5 +11,3 @@
 | **Size** | 68.0 MB |
 
 One click above downloads just this book's PDF (Physical Education & Life skill Development.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`ceramic-technology.zip`](https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip)

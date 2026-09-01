@@ -11,5 +11,3 @@
 | **Size** | 102.0 MB |
 
 One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`civil-wood-technology.zip`](https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip)

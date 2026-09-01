@@ -11,5 +11,3 @@
 | **Size** | 95.9 MB |
 
 One click above downloads just this book's PDF (Mechanical Estimating & Costing.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`rac-technology.zip`](https://archive.org/download/haque-books-rac-technology/rac-technology.zip)

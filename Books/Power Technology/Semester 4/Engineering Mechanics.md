@@ -11,5 +11,3 @@
 | **Size** | 72.7 MB |
 
 One click above downloads just this book's PDF (Engineering Mechanics.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

@@ -11,5 +11,3 @@
 | **Size** | 125.4 MB |
 
 One click above downloads just this book's PDF (Transportation Engineering-I.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

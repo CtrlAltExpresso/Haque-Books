@@ -11,5 +11,3 @@
 | **Size** | 98.3 MB |
 
 One click above downloads just this book's PDF (Measurements-I Testing and Maintannance of Electrical Equipments.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

@@ -11,5 +11,3 @@
 | **Size** | 80.8 MB |
 
 One click above downloads just this book's PDF (Mathematics-III.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

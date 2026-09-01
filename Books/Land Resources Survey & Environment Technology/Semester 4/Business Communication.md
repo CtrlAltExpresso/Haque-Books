@@ -11,5 +11,3 @@
 | **Size** | 60.6 MB |
 
 One click above downloads just this book's PDF (Business Communication.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`land-resources-survey-environment-technology.zip`](https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip)

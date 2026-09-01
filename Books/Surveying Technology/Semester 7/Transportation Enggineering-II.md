@@ -11,5 +11,3 @@
 | **Size** | 119.4 MB |
 
 One click above downloads just this book's PDF (Transportation Enggineering-II.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`surveying-technology.zip`](https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip)

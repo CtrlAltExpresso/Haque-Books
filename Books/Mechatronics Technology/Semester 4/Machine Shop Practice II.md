@@ -11,5 +11,3 @@
 | **Size** | 93.8 MB |
 
 One click above downloads just this book's PDF (Machine Shop Practice II.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

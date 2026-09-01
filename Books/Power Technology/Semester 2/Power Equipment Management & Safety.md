@@ -11,5 +11,3 @@
 | **Size** | 54.5 MB |
 
 One click above downloads just this book's PDF (Power Equipment Management & Safety.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

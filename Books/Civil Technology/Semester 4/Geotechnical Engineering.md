@@ -11,5 +11,3 @@
 | **Size** | 62.8 MB |
 
 One click above downloads just this book's PDF (Geotechnical Engineering.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

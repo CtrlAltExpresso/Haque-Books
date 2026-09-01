@@ -11,5 +11,3 @@
 | **Size** | 81.6 MB |
 
 One click above downloads just this book's PDF (Metallurgy.pdf) directly.
-
-**Whole-department zip** (all books in this department): [`marine-technology.zip`](https://archive.org/download/haque-books-marine-technology/marine-technology.zip)
