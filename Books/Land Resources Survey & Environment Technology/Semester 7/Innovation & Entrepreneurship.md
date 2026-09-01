@@ -1,0 +1,17 @@
+# Innovation & Entrepreneurship
+
+| | |
+|---|---|
+| **Subject code** | `25853` |
+| **Department** | Land Resources Survey & Environment Technology |
+| **Semester** | 7 |
+| **File** | `Innovation & Entrepreneurship.pdf` |
+| **Size** | 118.6 MB |
+| **Source** | `land-resources-survey-environment-technology.zip` |
+
+Download the `land-resources-survey-environment-technology.zip` from Internet Archive, then extract `Innovation & Entrepreneurship.pdf`. Whole-department zip:
+
+```bash
+curl -LO "https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip"
+unzip land-resources-survey-environment-technology.zip
+```

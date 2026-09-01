@@ -1,0 +1,17 @@
+# Mathematics-III
+
+| | |
+|---|---|
+| **Subject code** | `25931` |
+| **Department** | Electromedical Technology |
+| **Semester** | 3 |
+| **File** | `Mathematics-III.pdf` |
+| **Size** | 80.8 MB |
+| **Source** | `electromedical-technology.zip` |
+
+Download the `electromedical-technology.zip` from Internet Archive, then extract `Mathematics-III.pdf`. Whole-department zip:
+
+```bash
+curl -LO "https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip"
+unzip electromedical-technology.zip
+```

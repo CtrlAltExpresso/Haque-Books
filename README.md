@@ -35,6 +35,30 @@ The collection mirrors the FreeMax layout:
 Each department has been packaged as a single `.zip` (no compression — the PDFs are already
 compressed) and uploaded to Internet Archive.
 
+### `Books/` tree — browse like FreeMax
+
+The real PDFs are ~103 GB, too large for GitHub, so the `Books/` folder here is a
+**lightweight mirror of the FreeMax tree** — same `Department → Semester → Subject` layout,
+but every subject is a tiny `.md` page (code, size, archive.org source) with a direct
+download link. Browse the tree on GitHub exactly like the FreeMax repo:
+
+```
+Books/
+├── Civil Technology/
+│   ├── Semester 1/
+│   │   ├── Engineering Drawing.md
+│   │   ├── Bangla-I.md
+│   │   └── ...
+│   ├── Semester 2/
+│   │   └── ...
+└── Computer Science & Technology/
+    ├── Semester 1/
+    └── ...
+```
+
+Every `.md` page links to the matching department `.zip` on Internet Archive so you can
+pull just the one book you need.
+
 ## Internet Archive Items
 
 Each of the 33 departments is one archive.org item. Replace `<ident>` with the item identifier
@@ -94,6 +118,8 @@ Replace `<ident>` below with the item identifier from this table.
 
 ## Files in this repo
 
+- **`Books/`** — browsable `Department/Semester/Subject` tree (mirrors FreeMax) — each
+  subject is a `.md` page linking to its archive.org download. **982 pages.**
 - **`manifest.csv`** — every book placement: department, semester, BTEB subject code, subject,
   filename, size (MB), and which archive.zip it came from. **982 rows.**
 - **`catalog_unique.csv`** — each unique subject/code with the list of departments that teach it.
