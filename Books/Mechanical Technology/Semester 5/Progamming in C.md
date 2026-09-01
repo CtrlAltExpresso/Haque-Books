@@ -1,5 +1,7 @@
 # Progamming in C
 
+[⬇ Download this book (PDF, 143.8 MB)](https://archive.org/download/haque-books-mechanical-technology/Progamming%20in%20C.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28567` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Progamming in C.pdf` |
 | **Size** | 143.8 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Progamming in C.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Progamming in C.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

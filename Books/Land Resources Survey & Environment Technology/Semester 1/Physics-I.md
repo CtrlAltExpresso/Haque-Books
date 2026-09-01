@@ -1,5 +1,7 @@
 # Physics-I
 
+[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Physics-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25912` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Physics-I.pdf` |
 | **Size** | 110.1 MB |
-| **Source** | `land-resources-survey-environment-technology.zip` |
 
-Download the `land-resources-survey-environment-technology.zip` from Internet Archive, then extract `Physics-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip"
-unzip land-resources-survey-environment-technology.zip
-```
+**Whole-department zip** (all books in this department): [`land-resources-survey-environment-technology.zip`](https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip)

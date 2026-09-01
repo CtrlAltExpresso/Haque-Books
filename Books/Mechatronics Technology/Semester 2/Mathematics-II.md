@@ -1,5 +1,7 @@
 # Mathematics-II
 
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mathematics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25921` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Mathematics-II.pdf` |
 | **Size** | 87.5 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Mathematics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

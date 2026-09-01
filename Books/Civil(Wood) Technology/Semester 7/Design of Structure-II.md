@@ -1,5 +1,7 @@
 # Design of Structure-II
 
+[⬇ Download this book (PDF, 114.9 MB)](https://archive.org/download/haque-books-civil-wood-technology/Design%20of%20Structure-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26474` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Design of Structure-II.pdf` |
 | **Size** | 114.9 MB |
-| **Source** | `civil-wood-technology.zip` |
 
-Download the `civil-wood-technology.zip` from Internet Archive, then extract `Design of Structure-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Design of Structure-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip"
-unzip civil-wood-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-wood-technology.zip`](https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip)

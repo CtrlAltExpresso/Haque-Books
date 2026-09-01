@@ -1,5 +1,7 @@
 # Physical Education & Life Skills Development
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-mechanical-technology/Physical%20Education%20%26%20Life%20Skills%20Development.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25812` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Physical Education & Life Skills Development.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Physical Education & Life Skills Development.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physical Education & Life Skills Development.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

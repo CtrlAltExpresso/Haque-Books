@@ -1,5 +1,7 @@
 # Network Administration & Services
 
+[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Network%20Administration%20%26%20Services.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28572` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Network Administration & Services.pdf` |
 | **Size** | 110.2 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Network Administration & Services.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Network Administration & Services.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

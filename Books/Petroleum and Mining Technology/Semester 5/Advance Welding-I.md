@@ -1,5 +1,7 @@
 # Advance Welding-I
 
+[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Advance%20Welding-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27053` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Advance Welding-I.pdf` |
 | **Size** | 182.0 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Advance Welding-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Advance Welding-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

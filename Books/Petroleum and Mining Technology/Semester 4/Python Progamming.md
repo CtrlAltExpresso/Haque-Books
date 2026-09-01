@@ -1,5 +1,7 @@
 # Python Progamming
 
+[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Python%20Progamming.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28521` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Python Progamming.pdf` |
 | **Size** | 60.2 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Python Progamming.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Python Progamming.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

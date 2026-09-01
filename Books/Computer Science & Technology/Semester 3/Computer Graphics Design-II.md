@@ -1,5 +1,7 @@
 # Computer Graphics Design-II
 
+[⬇ Download this book (PDF, 50.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Graphics%20Design-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28532` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Computer Graphics Design-II.pdf` |
 | **Size** | 50.2 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Computer Graphics Design-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer Graphics Design-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

@@ -1,5 +1,7 @@
 # Strength of Materials
 
+[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-marine-technology/Strength%20of%20Materials.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27061` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Strength of Materials.pdf` |
 | **Size** | 101.3 MB |
-| **Source** | `marine-technology.zip` |
 
-Download the `marine-technology.zip` from Internet Archive, then extract `Strength of Materials.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Strength of Materials.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-marine-technology/marine-technology.zip"
-unzip marine-technology.zip
-```
+**Whole-department zip** (all books in this department): [`marine-technology.zip`](https://archive.org/download/haque-books-marine-technology/marine-technology.zip)

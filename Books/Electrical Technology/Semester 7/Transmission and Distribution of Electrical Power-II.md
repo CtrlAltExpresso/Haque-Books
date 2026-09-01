@@ -1,5 +1,7 @@
 # Transmission and Distribution of Electrical Power-II
 
+[⬇ Download this book (PDF, 113.5 MB)](https://archive.org/download/haque-books-electrical-technology/Transmission%20and%20Distribution%20of%20Electrical%20Power-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26772` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Transmission and Distribution of Electrical Power-II.pdf` |
 | **Size** | 113.5 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Transmission and Distribution of Electrical Power-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Transmission and Distribution of Electrical Power-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

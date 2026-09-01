@@ -1,5 +1,7 @@
 # Innovation & Entrepreneurship
 
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Innovation%20%26%20Entrepreneurship.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25853` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Innovation & Entrepreneurship.pdf` |
 | **Size** | 118.6 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Innovation & Entrepreneurship.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Innovation & Entrepreneurship.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

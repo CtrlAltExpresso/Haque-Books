@@ -1,5 +1,7 @@
 # Climatology
 
+[⬇ Download this book (PDF, 130.2 MB)](https://archive.org/download/haque-books-architecture-technology/Climatology.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26134` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Climatology.pdf` |
 | **Size** | 130.2 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Climatology.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Climatology.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

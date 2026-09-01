@@ -1,5 +1,7 @@
 # Engineering Mechanics
 
+[⬇ Download this book (PDF, 72.7 MB)](https://archive.org/download/haque-books-automobile-technology/Engineering%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27041` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Engineering Mechanics.pdf` |
 | **Size** | 72.7 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Engineering Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Engineering Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

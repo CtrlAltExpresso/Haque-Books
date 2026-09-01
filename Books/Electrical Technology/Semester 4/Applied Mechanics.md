@@ -1,5 +1,7 @@
 # Applied Mechanics
 
+[⬇ Download this book (PDF, 78.1 MB)](https://archive.org/download/haque-books-electrical-technology/Applied%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27044` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Applied Mechanics.pdf` |
 | **Size** | 78.1 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Applied Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Applied Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

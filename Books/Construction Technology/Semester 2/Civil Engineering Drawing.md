@@ -1,5 +1,7 @@
 # Civil Engineering Drawing
 
+[⬇ Download this book (PDF, 50.4 MB)](https://archive.org/download/haque-books-construction-technology/Civil%20Engineering%20Drawing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26421` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Civil Engineering Drawing.pdf` |
 | **Size** | 50.4 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Civil Engineering Drawing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Civil Engineering Drawing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

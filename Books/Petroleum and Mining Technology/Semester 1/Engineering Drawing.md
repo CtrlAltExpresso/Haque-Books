@@ -1,5 +1,7 @@
 # Engineering Drawing
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Engineering%20Drawing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `21011` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Engineering Drawing.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Engineering Drawing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Engineering Drawing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

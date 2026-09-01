@@ -1,5 +1,7 @@
 # Industrial Automation and PLC
 
+[⬇ Download this book (PDF, 87.6 MB)](https://archive.org/download/haque-books-electronics-technology/Industrial%20Automation%20and%20PLC.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26872` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Industrial Automation and PLC.pdf` |
 | **Size** | 87.6 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Industrial Automation and PLC.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Industrial Automation and PLC.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

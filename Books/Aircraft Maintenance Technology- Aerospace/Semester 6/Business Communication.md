@@ -1,5 +1,7 @@
 # Business Communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Business%20Communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Business Communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `aircraft-maintenance-technology-aerospace.zip` |
 
-Download the `aircraft-maintenance-technology-aerospace.zip` from Internet Archive, then extract `Business Communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business Communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip"
-unzip aircraft-maintenance-technology-aerospace.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-aerospace.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip)

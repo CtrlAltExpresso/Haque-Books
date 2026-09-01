@@ -1,5 +1,7 @@
 # Machine Shop Practice III
 
+[⬇ Download this book (PDF, 45.5 MB)](https://archive.org/download/haque-books-mechanical-technology/Machine%20Shop%20Practice%20III.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27042` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Machine Shop Practice III.pdf` |
 | **Size** | 45.5 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Machine Shop Practice III.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Machine Shop Practice III.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

@@ -1,5 +1,7 @@
 # Computer Office Applications
 
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-electrical-technology/Computer%20Office%20Applications.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28511` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Computer Office Applications.pdf` |
 | **Size** | 114.3 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Computer Office Applications.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer Office Applications.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

@@ -1,5 +1,7 @@
 # Sanitary Engineering
 
+[⬇ Download this book (PDF, 122.2 MB)](https://archive.org/download/haque-books-environmental-technology/Sanitary%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26472` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Sanitary Engineering.pdf` |
 | **Size** | 122.2 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Sanitary Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Sanitary Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

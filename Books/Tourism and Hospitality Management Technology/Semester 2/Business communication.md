@@ -1,5 +1,7 @@
 # Business communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Business%20communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Business communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `Business communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

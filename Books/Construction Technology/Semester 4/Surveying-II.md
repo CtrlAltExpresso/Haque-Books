@@ -1,5 +1,7 @@
 # Surveying-II
 
+[⬇ Download this book (PDF, 75.6 MB)](https://archive.org/download/haque-books-construction-technology/Surveying-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26444` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Surveying-II.pdf` |
 | **Size** | 75.6 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Surveying-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Surveying-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

@@ -1,5 +1,7 @@
 # Structural Mechanics
 
+[⬇ Download this book (PDF, 138.2 MB)](https://archive.org/download/haque-books-architecture-technology/Structural%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26431` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Structural Mechanics.pdf` |
 | **Size** | 138.2 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Structural Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Structural Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

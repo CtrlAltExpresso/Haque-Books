@@ -1,5 +1,7 @@
 # Basic Workshop Practice
 
+[⬇ Download this book (PDF, 106.9 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Basic%20Workshop%20Practice.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27011` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Workshop Practice.pdf` |
 | **Size** | 106.9 MB |
-| **Source** | `aircraft-maintenance-technology-aerospace.zip` |
 
-Download the `aircraft-maintenance-technology-aerospace.zip` from Internet Archive, then extract `Basic Workshop Practice.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Workshop Practice.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip"
-unzip aircraft-maintenance-technology-aerospace.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-aerospace.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip)

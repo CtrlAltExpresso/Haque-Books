@@ -1,5 +1,7 @@
 # Social Science
 
+[⬇ Download this book (PDF, 149.7 MB)](https://archive.org/download/haque-books-computer-science-technology/Social%20Science.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25811` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Social Science.pdf` |
 | **Size** | 149.7 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Social Science.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Social Science.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

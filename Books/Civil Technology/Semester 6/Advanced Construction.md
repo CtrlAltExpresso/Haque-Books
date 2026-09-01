@@ -1,5 +1,7 @@
 # Advanced Construction
 
+[⬇ Download this book (PDF, 69.4 MB)](https://archive.org/download/haque-books-civil-technology/Advanced%20Construction.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28861` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Advanced Construction.pdf` |
 | **Size** | 69.4 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Advanced Construction.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Advanced Construction.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

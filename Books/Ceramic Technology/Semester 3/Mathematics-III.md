@@ -1,5 +1,7 @@
 # Mathematics-III
 
+[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-ceramic-technology/Mathematics-III.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25931` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Mathematics-III.pdf` |
 | **Size** | 80.8 MB |
-| **Source** | `ceramic-technology.zip` |
 
-Download the `ceramic-technology.zip` from Internet Archive, then extract `Mathematics-III.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-III.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip"
-unzip ceramic-technology.zip
-```
+**Whole-department zip** (all books in this department): [`ceramic-technology.zip`](https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip)

@@ -1,5 +1,7 @@
 # English-1
 
+[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/English-1.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25712` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `English-1.pdf` |
 | **Size** | 242.2 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `English-1.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (English-1.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

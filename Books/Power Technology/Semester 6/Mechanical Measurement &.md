@@ -1,5 +1,7 @@
 # Mechanical Measurement &
 
+[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-power-technology/Mechanical%20Measurement%20%26.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27062` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Mechanical Measurement &.pdf` |
 | **Size** | 105.9 MB |
-| **Source** | `power-technology.zip` |
 
-Download the `power-technology.zip` from Internet Archive, then extract `Mechanical Measurement &.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mechanical Measurement &.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-power-technology/power-technology.zip"
-unzip power-technology.zip
-```
+**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

@@ -1,5 +1,7 @@
 # Machine Shop Practice I
 
+[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-mechatronics-technology/Machine%20Shop%20Practice%20I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27012` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Machine Shop Practice I.pdf` |
 | **Size** | 111.4 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Machine Shop Practice I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Machine Shop Practice I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

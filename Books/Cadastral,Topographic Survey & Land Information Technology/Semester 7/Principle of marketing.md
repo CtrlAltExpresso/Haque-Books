@@ -1,5 +1,7 @@
 # Principle of marketing
 
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Principle%20of%20marketing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25853` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Principle of marketing.pdf` |
 | **Size** | 118.6 MB |
-| **Source** | `cadastral-topographic-survey-land-information-technology.zip` |
 
-Download the `cadastral-topographic-survey-land-information-technology.zip` from Internet Archive, then extract `Principle of marketing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Principle of marketing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip"
-unzip cadastral-topographic-survey-land-information-technology.zip
-```
+**Whole-department zip** (all books in this department): [`cadastral-topographic-survey-land-information-technology.zip`](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip)

@@ -1,5 +1,7 @@
 # Physical Education & Life skills Development
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-electronics-technology/Physical%20Education%20%26%20Life%20skills%20Development.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25812` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physical Education & Life skills Development.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Physical Education & Life skills Development.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physical Education & Life skills Development.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

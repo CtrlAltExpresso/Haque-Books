@@ -1,5 +1,7 @@
 # Mathematics-III
 
+[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-construction-technology/Mathematics-III.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25931` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Mathematics-III.pdf` |
 | **Size** | 80.8 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Mathematics-III.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-III.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

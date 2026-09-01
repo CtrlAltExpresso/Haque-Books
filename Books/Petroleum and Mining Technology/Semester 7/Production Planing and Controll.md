@@ -1,5 +1,7 @@
 # Production Planing and Controll
 
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Production%20Planing%20and%20Controll.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27075` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Production Planing and Controll.pdf` |
 | **Size** | 141.9 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Production Planing and Controll.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Production Planing and Controll.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

@@ -1,5 +1,7 @@
 # Physics-II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Physics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics-II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Physics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

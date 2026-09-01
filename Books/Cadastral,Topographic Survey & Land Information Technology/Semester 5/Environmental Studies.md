@@ -1,5 +1,7 @@
 # Environmental Studies
 
+[⬇ Download this book (PDF, 139.7 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Environmental%20Studies.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `29041` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Environmental Studies.pdf` |
 | **Size** | 139.7 MB |
-| **Source** | `cadastral-topographic-survey-land-information-technology.zip` |
 
-Download the `cadastral-topographic-survey-land-information-technology.zip` from Internet Archive, then extract `Environmental Studies.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Environmental Studies.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip"
-unzip cadastral-topographic-survey-land-information-technology.zip
-```
+**Whole-department zip** (all books in this department): [`cadastral-topographic-survey-land-information-technology.zip`](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip)

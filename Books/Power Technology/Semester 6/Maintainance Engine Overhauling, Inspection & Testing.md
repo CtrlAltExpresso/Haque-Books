@@ -1,5 +1,7 @@
 # Maintainance Engine Overhauling, Inspection & Testing
 
+[⬇ Download this book (PDF, 101.1 MB)](https://archive.org/download/haque-books-power-technology/Maintainance%20Engine%20Overhauling%2C%20Inspection%20%26%20Testing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27161` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Maintainance Engine Overhauling, Inspection & Testing.pdf` |
 | **Size** | 101.1 MB |
-| **Source** | `power-technology.zip` |
 
-Download the `power-technology.zip` from Internet Archive, then extract `Maintainance Engine Overhauling, Inspection & Testing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Maintainance Engine Overhauling, Inspection & Testing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-power-technology/power-technology.zip"
-unzip power-technology.zip
-```
+**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

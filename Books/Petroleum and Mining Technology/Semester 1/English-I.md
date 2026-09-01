@@ -1,5 +1,7 @@
 # English-I
 
+[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/English-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25712` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `English-I.pdf` |
 | **Size** | 242.2 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `English-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (English-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

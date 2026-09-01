@@ -1,5 +1,7 @@
 # Geotechnical Engineering
 
+[⬇ Download this book (PDF, 62.8 MB)](https://archive.org/download/haque-books-environmental-technology/Geotechnical%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26445` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Geotechnical Engineering.pdf` |
 | **Size** | 62.8 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Geotechnical Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Geotechnical Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

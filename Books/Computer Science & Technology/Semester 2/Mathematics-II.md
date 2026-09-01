@@ -1,5 +1,7 @@
 # Mathematics-II
 
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Mathematics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25921` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Mathematics-II.pdf` |
 | **Size** | 87.5 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Mathematics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

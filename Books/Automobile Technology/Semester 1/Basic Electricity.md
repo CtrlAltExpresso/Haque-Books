@@ -1,5 +1,7 @@
 # Basic Electricity
 
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-automobile-technology/Basic%20Electricity.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26711` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Electricity.pdf` |
 | **Size** | 102.0 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Basic Electricity.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

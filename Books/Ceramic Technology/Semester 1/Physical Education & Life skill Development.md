@@ -1,5 +1,7 @@
 # Physical Education & Life skill Development
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-ceramic-technology/Physical%20Education%20%26%20Life%20skill%20Development.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25812` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Physical Education & Life skill Development.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `ceramic-technology.zip` |
 
-Download the `ceramic-technology.zip` from Internet Archive, then extract `Physical Education & Life skill Development.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physical Education & Life skill Development.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip"
-unzip ceramic-technology.zip
-```
+**Whole-department zip** (all books in this department): [`ceramic-technology.zip`](https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip)

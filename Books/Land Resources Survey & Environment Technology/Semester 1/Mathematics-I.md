@@ -1,5 +1,7 @@
 # Mathematics-I
 
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Mathematics-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25911` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Mathematics-I.pdf` |
 | **Size** | 107.4 MB |
-| **Source** | `land-resources-survey-environment-technology.zip` |
 
-Download the `land-resources-survey-environment-technology.zip` from Internet Archive, then extract `Mathematics-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip"
-unzip land-resources-survey-environment-technology.zip
-```
+**Whole-department zip** (all books in this department): [`land-resources-survey-environment-technology.zip`](https://archive.org/download/haque-books-land-resources-survey-environment-technology/land-resources-survey-environment-technology.zip)

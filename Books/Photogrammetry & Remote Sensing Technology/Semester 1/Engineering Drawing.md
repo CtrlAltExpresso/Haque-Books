@@ -1,5 +1,7 @@
 # Engineering Drawing
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Engineering%20Drawing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `21011` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Engineering Drawing.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Engineering Drawing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Engineering Drawing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

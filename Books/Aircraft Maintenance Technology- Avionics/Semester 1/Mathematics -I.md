@@ -1,5 +1,7 @@
 # Mathematics -I
 
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Mathematics%20-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25911` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Mathematics -I.pdf` |
 | **Size** | 107.4 MB |
-| **Source** | `aircraft-maintenance-technology-avionics.zip` |
 
-Download the `aircraft-maintenance-technology-avionics.zip` from Internet Archive, then extract `Mathematics -I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics -I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip"
-unzip aircraft-maintenance-technology-avionics.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-avionics.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip)

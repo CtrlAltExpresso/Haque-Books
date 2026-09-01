@@ -1,5 +1,7 @@
 # Automation Engineering & PLC
 
+[⬇ Download this book (PDF, 110.3 MB)](https://archive.org/download/haque-books-glass-technology/Automation%20Engineering%20%26%20PLC.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26875` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Automation Engineering & PLC.pdf` |
 | **Size** | 110.3 MB |
-| **Source** | `glass-technology.zip` |
 
-Download the `glass-technology.zip` from Internet Archive, then extract `Automation Engineering & PLC.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Automation Engineering & PLC.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-glass-technology/glass-technology.zip"
-unzip glass-technology.zip
-```
+**Whole-department zip** (all books in this department): [`glass-technology.zip`](https://archive.org/download/haque-books-glass-technology/glass-technology.zip)

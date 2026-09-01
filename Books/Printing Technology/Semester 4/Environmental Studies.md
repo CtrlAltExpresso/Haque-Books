@@ -1,5 +1,7 @@
 # Environmental Studies
 
+[⬇ Download this book (PDF, 139.7 MB)](https://archive.org/download/haque-books-printing-technology/Environmental%20Studies.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `29041` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Environmental Studies.pdf` |
 | **Size** | 139.7 MB |
-| **Source** | `printing-technology.zip` |
 
-Download the `printing-technology.zip` from Internet Archive, then extract `Environmental Studies.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Environmental Studies.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-printing-technology/printing-technology.zip"
-unzip printing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`printing-technology.zip`](https://archive.org/download/haque-books-printing-technology/printing-technology.zip)

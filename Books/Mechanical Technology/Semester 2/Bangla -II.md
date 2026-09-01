@@ -1,5 +1,7 @@
 # Bangla -II
 
+[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-mechanical-technology/Bangla%20-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25721` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Bangla -II.pdf` |
 | **Size** | 163.4 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Bangla -II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Bangla -II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

@@ -1,5 +1,7 @@
 # Innovation & Entrepreneurship
 
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-architecture-technology/Innovation%20%26%20Entrepreneurship.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25853` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Innovation & Entrepreneurship.pdf` |
 | **Size** | 118.6 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Innovation & Entrepreneurship.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Innovation & Entrepreneurship.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

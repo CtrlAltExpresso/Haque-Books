@@ -1,5 +1,7 @@
 # Principle of Marketing
 
+[⬇ Download this book (PDF, 91.8 MB)](https://archive.org/download/haque-books-electrical-technology/Principle%20of%20Marketing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25851` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Principle of Marketing.pdf` |
 | **Size** | 91.8 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Principle of Marketing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Principle of Marketing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

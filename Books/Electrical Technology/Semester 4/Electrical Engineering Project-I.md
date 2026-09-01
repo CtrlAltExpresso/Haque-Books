@@ -1,5 +1,7 @@
 # Electrical Engineering Project-I
 
+[⬇ Download this book (PDF, 39.1 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Engineering%20Project-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26743` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Electrical Engineering Project-I.pdf` |
 | **Size** | 39.1 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Electrical Engineering Project-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electrical Engineering Project-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

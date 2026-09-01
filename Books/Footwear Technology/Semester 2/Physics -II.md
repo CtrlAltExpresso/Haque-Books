@@ -1,5 +1,7 @@
 # Physics -II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-footwear-technology/Physics%20-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics -II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `footwear-technology.zip` |
 
-Download the `footwear-technology.zip` from Internet Archive, then extract `Physics -II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics -II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip"
-unzip footwear-technology.zip
-```
+**Whole-department zip** (all books in this department): [`footwear-technology.zip`](https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip)

@@ -1,5 +1,7 @@
 # Mathematics-II
 
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-environmental-technology/Mathematics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25921` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Mathematics-II.pdf` |
 | **Size** | 87.5 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Mathematics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

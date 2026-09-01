@@ -1,5 +1,7 @@
 # Metallurgy
 
+[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-automobile-technology/Metallurgy.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27043` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Metallurgy.pdf` |
 | **Size** | 81.6 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Metallurgy.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Metallurgy.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

@@ -1,5 +1,7 @@
 # Basic Electricity
 
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Basic%20Electricity.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26711` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Electricity.pdf` |
 | **Size** | 102.0 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Basic Electricity.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

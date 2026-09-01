@@ -1,5 +1,7 @@
 # Water Supply and Sanitary Engineering
 
+[⬇ Download this book (PDF, 142.8 MB)](https://archive.org/download/haque-books-architecture-technology/Water%20Supply%20and%20Sanitary%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26457` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Water Supply and Sanitary Engineering.pdf` |
 | **Size** | 142.8 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Water Supply and Sanitary Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Water Supply and Sanitary Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

@@ -1,5 +1,7 @@
 # Physics-I
 
+[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Physics-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25912` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Physics-I.pdf` |
 | **Size** | 110.1 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Physics-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

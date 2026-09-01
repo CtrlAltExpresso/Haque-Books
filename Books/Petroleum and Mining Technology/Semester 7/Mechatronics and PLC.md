@@ -1,5 +1,7 @@
 # Mechatronics and PLC
 
+[⬇ Download this book (PDF, 156.5 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Mechatronics%20and%20PLC.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `29231` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Mechatronics and PLC.pdf` |
 | **Size** | 156.5 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Mechatronics and PLC.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mechatronics and PLC.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

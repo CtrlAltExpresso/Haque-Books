@@ -1,5 +1,7 @@
 # Engineering Mechanics
 
+[⬇ Download this book (PDF, 72.7 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Engineering%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27041` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Engineering Mechanics.pdf` |
 | **Size** | 72.7 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Engineering Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Engineering Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

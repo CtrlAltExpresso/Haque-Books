@@ -1,5 +1,7 @@
 # Machine Shop Practice I
 
+[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-automobile-technology/Machine%20Shop%20Practice%20I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27012` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Machine Shop Practice I.pdf` |
 | **Size** | 111.4 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Machine Shop Practice I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Machine Shop Practice I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

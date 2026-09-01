@@ -1,5 +1,7 @@
 # Physical Education & Life
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Physical%20Education%20%26%20Life.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25812` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physical Education & Life.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Physical Education & Life.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physical Education & Life.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

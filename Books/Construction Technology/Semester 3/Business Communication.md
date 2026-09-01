@@ -1,5 +1,7 @@
 # Business Communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-construction-technology/Business%20Communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Business Communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Business Communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business Communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

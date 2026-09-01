@@ -1,5 +1,7 @@
 # Chemistry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-construction-technology/Chemistry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Chemistry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Chemistry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemistry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

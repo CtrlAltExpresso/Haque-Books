@@ -1,5 +1,7 @@
 # Innovation & Entrepreneurship
 
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-mechanical-technology/Innovation%20%26%20Entrepreneurship.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25853` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Innovation & Entrepreneurship.pdf` |
 | **Size** | 118.6 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Innovation & Entrepreneurship.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Innovation & Entrepreneurship.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

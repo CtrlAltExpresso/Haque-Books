@@ -1,5 +1,7 @@
 # Communication Engineering
 
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-electrical-technology/Communication%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26842` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Communication Engineering.pdf` |
 | **Size** | 118.6 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Communication Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Communication Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

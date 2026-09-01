@@ -1,5 +1,7 @@
 # Production Planning & Control
 
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-rac-technology/Production%20Planning%20%26%20Control.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27075` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Production Planning & Control.pdf` |
 | **Size** | 141.9 MB |
-| **Source** | `rac-technology.zip` |
 
-Download the `rac-technology.zip` from Internet Archive, then extract `Production Planning & Control.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Production Planning & Control.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-rac-technology/rac-technology.zip"
-unzip rac-technology.zip
-```
+**Whole-department zip** (all books in this department): [`rac-technology.zip`](https://archive.org/download/haque-books-rac-technology/rac-technology.zip)

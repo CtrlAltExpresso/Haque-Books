@@ -1,5 +1,7 @@
 # Switch Gear and Protection
 
+[⬇ Download this book (PDF, 132.7 MB)](https://archive.org/download/haque-books-electrical-technology/Switch%20Gear%20and%20Protection.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26773` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Switch Gear and Protection.pdf` |
 | **Size** | 132.7 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Switch Gear and Protection.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Switch Gear and Protection.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

@@ -1,5 +1,7 @@
 # Metallurgy
 
+[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-rac-technology/Metallurgy.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27043` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Metallurgy.pdf` |
 | **Size** | 81.6 MB |
-| **Source** | `rac-technology.zip` |
 
-Download the `rac-technology.zip` from Internet Archive, then extract `Metallurgy.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Metallurgy.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-rac-technology/rac-technology.zip"
-unzip rac-technology.zip
-```
+**Whole-department zip** (all books in this department): [`rac-technology.zip`](https://archive.org/download/haque-books-rac-technology/rac-technology.zip)

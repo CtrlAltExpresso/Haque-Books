@@ -1,5 +1,7 @@
 # Database Management System
 
+[⬇ Download this book (PDF, 101.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Database%20Management%20System.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28561` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Database Management System.pdf` |
 | **Size** | 101.5 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Database Management System.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Database Management System.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

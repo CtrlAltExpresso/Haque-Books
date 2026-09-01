@@ -1,5 +1,7 @@
 # Mathematics-II
 
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Mathematics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25921` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Mathematics-II.pdf` |
 | **Size** | 87.5 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Mathematics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

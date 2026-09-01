@@ -1,5 +1,7 @@
 # Basic Electronics
 
+[⬇ Download this book (PDF, 101.4 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Basic%20Electronics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26811` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Basic Electronics.pdf` |
 | **Size** | 101.4 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Basic Electronics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electronics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

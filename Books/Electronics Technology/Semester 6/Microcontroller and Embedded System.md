@@ -1,5 +1,7 @@
 # Microcontroller and Embedded System
 
+[⬇ Download this book (PDF, 97.9 MB)](https://archive.org/download/haque-books-electronics-technology/Microcontroller%20and%20Embedded%20System.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26862` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Microcontroller and Embedded System.pdf` |
 | **Size** | 97.9 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Microcontroller and Embedded System.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Microcontroller and Embedded System.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

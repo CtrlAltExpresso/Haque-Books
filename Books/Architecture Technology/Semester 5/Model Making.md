@@ -1,5 +1,7 @@
 # Model Making
 
+[⬇ Download this book (PDF, 121.2 MB)](https://archive.org/download/haque-books-architecture-technology/Model%20Making.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26153` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Model Making.pdf` |
 | **Size** | 121.2 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Model Making.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Model Making.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

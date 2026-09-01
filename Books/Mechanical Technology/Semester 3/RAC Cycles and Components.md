@@ -1,5 +1,7 @@
 # RAC Cycles and Components
 
+[⬇ Download this book (PDF, 89.8 MB)](https://archive.org/download/haque-books-mechanical-technology/RAC%20Cycles%20and%20Components.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27231` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `RAC Cycles and Components.pdf` |
 | **Size** | 89.8 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `RAC Cycles and Components.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (RAC Cycles and Components.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

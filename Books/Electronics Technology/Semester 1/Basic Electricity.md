@@ -1,5 +1,7 @@
 # Basic Electricity
 
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-electronics-technology/Basic%20Electricity.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26711` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Electricity.pdf` |
 | **Size** | 102.0 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Basic Electricity.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

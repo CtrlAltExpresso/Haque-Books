@@ -1,5 +1,7 @@
 # Physics-II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Physics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics-II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `aircraft-maintenance-technology-aerospace.zip` |
 
-Download the `aircraft-maintenance-technology-aerospace.zip` from Internet Archive, then extract `Physics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip"
-unzip aircraft-maintenance-technology-aerospace.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-aerospace.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/aircraft-maintenance-technology-aerospace.zip)

@@ -1,5 +1,7 @@
 # Principles of Marketing
 
+[⬇ Download this book (PDF, 91.8 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Principles%20of%20Marketing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25851` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Principles of Marketing.pdf` |
 | **Size** | 91.8 MB |
-| **Source** | `aircraft-maintenance-technology-avionics.zip` |
 
-Download the `aircraft-maintenance-technology-avionics.zip` from Internet Archive, then extract `Principles of Marketing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Principles of Marketing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip"
-unzip aircraft-maintenance-technology-avionics.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-avionics.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip)

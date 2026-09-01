@@ -1,5 +1,7 @@
 # Installation,Planning and Estimating
 
+[⬇ Download this book (PDF, 130.6 MB)](https://archive.org/download/haque-books-electronics-technology/Installation%2CPlanning%20and%20Estimating.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26741` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Installation,Planning and Estimating.pdf` |
 | **Size** | 130.6 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Installation,Planning and Estimating.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Installation,Planning and Estimating.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

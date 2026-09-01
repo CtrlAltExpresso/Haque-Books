@@ -1,5 +1,7 @@
 # Digital Electronics
 
+[⬇ Download this book (PDF, 58.8 MB)](https://archive.org/download/haque-books-electrical-technology/Digital%20Electronics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26845` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Digital Electronics.pdf` |
 | **Size** | 58.8 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Digital Electronics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Digital Electronics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

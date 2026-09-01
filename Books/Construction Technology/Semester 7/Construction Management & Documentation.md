@@ -1,5 +1,7 @@
 # Construction Management & Documentation
 
+[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-construction-technology/Construction%20Management%20%26%20Documentation.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28871` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Construction Management & Documentation.pdf` |
 | **Size** | 92.0 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Construction Management & Documentation.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Construction Management & Documentation.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

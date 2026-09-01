@@ -1,5 +1,7 @@
 # Business Communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-automobile-technology/Business%20Communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Business Communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Business Communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business Communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

@@ -1,5 +1,7 @@
 # Business Communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-environmental-technology/Business%20Communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Business Communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Business Communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business Communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

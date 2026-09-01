@@ -1,5 +1,7 @@
 # AC Machine-I
 
+[⬇ Download this book (PDF, 118.3 MB)](https://archive.org/download/haque-books-electrical-technology/AC%20Machine-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26761` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `AC Machine-I.pdf` |
 | **Size** | 118.3 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `AC Machine-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (AC Machine-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

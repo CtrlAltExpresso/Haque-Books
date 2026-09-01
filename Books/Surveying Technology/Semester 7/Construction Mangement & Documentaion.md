@@ -1,5 +1,7 @@
 # Construction Mangement & Documentaion
 
+[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-surveying-technology/Construction%20Mangement%20%26%20Documentaion.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28871` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Construction Mangement & Documentaion.pdf` |
 | **Size** | 92.0 MB |
-| **Source** | `surveying-technology.zip` |
 
-Download the `surveying-technology.zip` from Internet Archive, then extract `Construction Mangement & Documentaion.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Construction Mangement & Documentaion.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip"
-unzip surveying-technology.zip
-```
+**Whole-department zip** (all books in this department): [`surveying-technology.zip`](https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip)

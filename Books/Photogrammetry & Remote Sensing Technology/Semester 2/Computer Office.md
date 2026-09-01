@@ -1,5 +1,7 @@
 # Computer Office
 
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Computer%20Office.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28511` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Computer Office.pdf` |
 | **Size** | 114.3 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Computer Office.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer Office.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

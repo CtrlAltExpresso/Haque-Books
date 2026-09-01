@@ -1,5 +1,7 @@
 # Advanced Welding-I
 
+[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-mechanical-technology/Advanced%20Welding-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27053` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Advanced Welding-I.pdf` |
 | **Size** | 182.0 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Advanced Welding-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Advanced Welding-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

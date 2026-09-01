@@ -1,5 +1,7 @@
 # Web Design & Development-I
 
+[⬇ Download this book (PDF, 38.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Design%20%26%20Development-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28544` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Web Design & Development-I.pdf` |
 | **Size** | 38.6 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Web Design & Development-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Web Design & Development-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

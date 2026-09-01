@@ -1,5 +1,7 @@
 # Physics -II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-telecommunication-technology/Physics%20-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics -II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `telecommunication-technology.zip` |
 
-Download the `telecommunication-technology.zip` from Internet Archive, then extract `Physics -II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics -II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-telecommunication-technology/telecommunication-technology.zip"
-unzip telecommunication-technology.zip
-```
+**Whole-department zip** (all books in this department): [`telecommunication-technology.zip`](https://archive.org/download/haque-books-telecommunication-technology/telecommunication-technology.zip)

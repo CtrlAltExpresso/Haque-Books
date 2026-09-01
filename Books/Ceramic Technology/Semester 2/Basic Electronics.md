@@ -1,5 +1,7 @@
 # Basic Electronics
 
+[⬇ Download this book (PDF, 101.4 MB)](https://archive.org/download/haque-books-ceramic-technology/Basic%20Electronics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26811` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Basic Electronics.pdf` |
 | **Size** | 101.4 MB |
-| **Source** | `ceramic-technology.zip` |
 
-Download the `ceramic-technology.zip` from Internet Archive, then extract `Basic Electronics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electronics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip"
-unzip ceramic-technology.zip
-```
+**Whole-department zip** (all books in this department): [`ceramic-technology.zip`](https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip)

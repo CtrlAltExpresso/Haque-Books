@@ -1,5 +1,7 @@
 # Basic Electricity
 
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-graphic-design-technology/Basic%20Electricity.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26711` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Basic Electricity.pdf` |
 | **Size** | 102.0 MB |
-| **Source** | `graphic-design-technology.zip` |
 
-Download the `graphic-design-technology.zip` from Internet Archive, then extract `Basic Electricity.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip"
-unzip graphic-design-technology.zip
-```
+**Whole-department zip** (all books in this department): [`graphic-design-technology.zip`](https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip)

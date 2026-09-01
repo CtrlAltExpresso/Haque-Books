@@ -1,5 +1,7 @@
 # Strength of Materials
 
+[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Strength%20of%20Materials.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27061` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Strength of Materials.pdf` |
 | **Size** | 101.3 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Strength of Materials.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Strength of Materials.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

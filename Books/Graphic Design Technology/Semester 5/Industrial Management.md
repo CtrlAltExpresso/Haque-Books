@@ -1,5 +1,7 @@
 # Industrial Management
 
+[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-graphic-design-technology/Industrial%20Management.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25852` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Industrial Management.pdf` |
 | **Size** | 103.8 MB |
-| **Source** | `graphic-design-technology.zip` |
 
-Download the `graphic-design-technology.zip` from Internet Archive, then extract `Industrial Management.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Industrial Management.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip"
-unzip graphic-design-technology.zip
-```
+**Whole-department zip** (all books in this department): [`graphic-design-technology.zip`](https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip)

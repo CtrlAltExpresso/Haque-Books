@@ -1,5 +1,7 @@
 # Foundry & Pattern Making
 
+[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-automobile-technology/Foundry%20%26%20Pattern%20Making.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27054` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Foundry & Pattern Making.pdf` |
 | **Size** | 139.1 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Foundry & Pattern Making.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Foundry & Pattern Making.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

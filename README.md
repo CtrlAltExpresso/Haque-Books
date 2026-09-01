@@ -56,8 +56,9 @@ Books/
     └── ...
 ```
 
-Every `.md` page links to the matching department `.zip` on Internet Archive so you can
-pull just the one book you need.
+Every `.md` page has a **one-click "Download this book" button** that starts downloading just that
+book's PDF directly from Internet Archive (no zip extraction needed). A whole-department zip link is
+also provided.
 
 ## Internet Archive Items
 

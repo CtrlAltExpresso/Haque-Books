@@ -1,5 +1,7 @@
 # Accounting Electrical
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-electronics-technology/Accounting%20Electrical.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Accounting Electrical.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Accounting Electrical.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting Electrical.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

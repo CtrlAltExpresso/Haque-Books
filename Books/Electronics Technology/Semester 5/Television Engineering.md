@@ -1,5 +1,7 @@
 # Television Engineering
 
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-electronics-technology/Television%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26851` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Television Engineering.pdf` |
 | **Size** | 141.9 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Television Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Television Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

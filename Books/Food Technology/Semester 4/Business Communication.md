@@ -1,5 +1,7 @@
 # Business Communication
 
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-food-technology/Business%20Communication.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25831` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Business Communication.pdf` |
 | **Size** | 60.6 MB |
-| **Source** | `food-technology.zip` |
 
-Download the `food-technology.zip` from Internet Archive, then extract `Business Communication.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Business Communication.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-food-technology/food-technology.zip"
-unzip food-technology.zip
-```
+**Whole-department zip** (all books in this department): [`food-technology.zip`](https://archive.org/download/haque-books-food-technology/food-technology.zip)

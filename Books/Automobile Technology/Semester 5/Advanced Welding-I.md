@@ -1,5 +1,7 @@
 # Advanced Welding-I
 
+[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-automobile-technology/Advanced%20Welding-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27053` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Advanced Welding-I.pdf` |
 | **Size** | 182.0 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Advanced Welding-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Advanced Welding-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

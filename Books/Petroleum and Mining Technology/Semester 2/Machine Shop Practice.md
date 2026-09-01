@@ -1,5 +1,7 @@
 # Machine Shop Practice
 
+[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Machine%20Shop%20Practice.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27012` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Machine Shop Practice.pdf` |
 | **Size** | 111.4 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Machine Shop Practice.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Machine Shop Practice.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

@@ -1,5 +1,7 @@
 # Digital Electronics-II
 
+[⬇ Download this book (PDF, 68.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Digital%20Electronics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26841` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Digital Electronics-II.pdf` |
 | **Size** | 68.4 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Digital Electronics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Digital Electronics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

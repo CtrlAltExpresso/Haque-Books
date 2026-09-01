@@ -1,5 +1,7 @@
 # Chemistry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-food-technology/Chemistry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Chemistry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `food-technology.zip` |
 
-Download the `food-technology.zip` from Internet Archive, then extract `Chemistry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemistry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-food-technology/food-technology.zip"
-unzip food-technology.zip
-```
+**Whole-department zip** (all books in this department): [`food-technology.zip`](https://archive.org/download/haque-books-food-technology/food-technology.zip)

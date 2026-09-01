@@ -1,5 +1,7 @@
 # Estimating & Costing-II
 
+[⬇ Download this book (PDF, 202.3 MB)](https://archive.org/download/haque-books-civil-technology/Estimating%20%26%20Costing-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26475` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Estimating & Costing-II.pdf` |
 | **Size** | 202.3 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Estimating & Costing-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Estimating & Costing-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

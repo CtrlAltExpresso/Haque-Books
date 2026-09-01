@@ -1,5 +1,7 @@
 # Sanitary Engineering
 
+[⬇ Download this book (PDF, 122.2 MB)](https://archive.org/download/haque-books-civil-wood-technology/Sanitary%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26472` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Sanitary Engineering.pdf` |
 | **Size** | 122.2 MB |
-| **Source** | `civil-wood-technology.zip` |
 
-Download the `civil-wood-technology.zip` from Internet Archive, then extract `Sanitary Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Sanitary Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip"
-unzip civil-wood-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-wood-technology.zip`](https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip)

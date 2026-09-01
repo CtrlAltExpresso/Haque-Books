@@ -1,5 +1,7 @@
 # Programming in C
 
+[⬇ Download this book (PDF, 143.8 MB)](https://archive.org/download/haque-books-electromedical-technology/Programming%20in%20C.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28567` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Programming in C.pdf` |
 | **Size** | 143.8 MB |
-| **Source** | `electromedical-technology.zip` |
 
-Download the `electromedical-technology.zip` from Internet Archive, then extract `Programming in C.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Programming in C.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip"
-unzip electromedical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electromedical-technology.zip`](https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip)

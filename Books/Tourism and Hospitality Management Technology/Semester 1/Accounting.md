@@ -1,5 +1,7 @@
 # Accounting
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Accounting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `Accounting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

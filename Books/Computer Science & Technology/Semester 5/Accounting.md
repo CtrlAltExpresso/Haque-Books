@@ -1,5 +1,7 @@
 # Accounting
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Accounting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Accounting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

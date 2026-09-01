@@ -1,5 +1,7 @@
 # Transportation Engineering-I
 
+[⬇ Download this book (PDF, 125.4 MB)](https://archive.org/download/haque-books-surveying-technology/Transportation%20Engineering-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26463` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Transportation Engineering-I.pdf` |
 | **Size** | 125.4 MB |
-| **Source** | `surveying-technology.zip` |
 
-Download the `surveying-technology.zip` from Internet Archive, then extract `Transportation Engineering-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Transportation Engineering-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip"
-unzip surveying-technology.zip
-```
+**Whole-department zip** (all books in this department): [`surveying-technology.zip`](https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip)

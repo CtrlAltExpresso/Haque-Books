@@ -1,5 +1,7 @@
 # Chemestry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Chemestry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Chemestry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `cadastral-topographic-survey-land-information-technology.zip` |
 
-Download the `cadastral-topographic-survey-land-information-technology.zip` from Internet Archive, then extract `Chemestry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemestry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip"
-unzip cadastral-topographic-survey-land-information-technology.zip
-```
+**Whole-department zip** (all books in this department): [`cadastral-topographic-survey-land-information-technology.zip`](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/cadastral-topographic-survey-land-information-technology.zip)

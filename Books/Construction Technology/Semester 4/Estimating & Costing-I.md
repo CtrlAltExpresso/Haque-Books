@@ -1,5 +1,7 @@
 # Estimating & Costing-I
 
+[⬇ Download this book (PDF, 63.3 MB)](https://archive.org/download/haque-books-construction-technology/Estimating%20%26%20Costing-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26442` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Estimating & Costing-I.pdf` |
 | **Size** | 63.3 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Estimating & Costing-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Estimating & Costing-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

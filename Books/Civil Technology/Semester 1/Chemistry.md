@@ -1,5 +1,7 @@
 # Chemistry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-civil-technology/Chemistry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Chemistry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Chemistry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemistry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

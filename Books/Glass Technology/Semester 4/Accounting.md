@@ -1,5 +1,7 @@
 # Accounting
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-glass-technology/Accounting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `glass-technology.zip` |
 
-Download the `glass-technology.zip` from Internet Archive, then extract `Accounting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-glass-technology/glass-technology.zip"
-unzip glass-technology.zip
-```
+**Whole-department zip** (all books in this department): [`glass-technology.zip`](https://archive.org/download/haque-books-glass-technology/glass-technology.zip)

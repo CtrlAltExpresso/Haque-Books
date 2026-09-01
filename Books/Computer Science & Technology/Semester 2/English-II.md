@@ -1,5 +1,7 @@
 # English-II
 
+[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-computer-science-technology/English-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25722` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `English-II.pdf` |
 | **Size** | 160.1 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `English-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (English-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

@@ -1,5 +1,7 @@
 # Mechanical Measurement & Metrology
 
+[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Measurement%20%26%20Metrology.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27062` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Mechanical Measurement & Metrology.pdf` |
 | **Size** | 105.9 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Mechanical Measurement & Metrology.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mechanical Measurement & Metrology.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

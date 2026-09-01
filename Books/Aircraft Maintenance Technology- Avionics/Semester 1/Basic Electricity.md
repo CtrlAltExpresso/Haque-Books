@@ -1,5 +1,7 @@
 # Basic Electricity
 
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Basic%20Electricity.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26711` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Electricity.pdf` |
 | **Size** | 102.0 MB |
-| **Source** | `aircraft-maintenance-technology-avionics.zip` |
 
-Download the `aircraft-maintenance-technology-avionics.zip` from Internet Archive, then extract `Basic Electricity.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Electricity.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip"
-unzip aircraft-maintenance-technology-avionics.zip
-```
+**Whole-department zip** (all books in this department): [`aircraft-maintenance-technology-avionics.zip`](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/aircraft-maintenance-technology-avionics.zip)

@@ -1,5 +1,7 @@
 # Application Development Using Java
 
+[⬇ Download this book (PDF, 86.8 MB)](https://archive.org/download/haque-books-computer-science-technology/Application%20Development%20Using%20Java.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28551` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Application Development Using Java.pdf` |
 | **Size** | 86.8 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Application Development Using Java.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Application Development Using Java.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

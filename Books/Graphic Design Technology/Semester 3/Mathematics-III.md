@@ -1,5 +1,7 @@
 # Mathematics-III
 
+[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-graphic-design-technology/Mathematics-III.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25931` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Mathematics-III.pdf` |
 | **Size** | 80.8 MB |
-| **Source** | `graphic-design-technology.zip` |
 
-Download the `graphic-design-technology.zip` from Internet Archive, then extract `Mathematics-III.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics-III.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip"
-unzip graphic-design-technology.zip
-```
+**Whole-department zip** (all books in this department): [`graphic-design-technology.zip`](https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip)

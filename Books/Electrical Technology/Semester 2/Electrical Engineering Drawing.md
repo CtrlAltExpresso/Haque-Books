@@ -1,5 +1,7 @@
 # Electrical Engineering Drawing
 
+[⬇ Download this book (PDF, 90.2 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Engineering%20Drawing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26722` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Electrical Engineering Drawing.pdf` |
 | **Size** | 90.2 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Electrical Engineering Drawing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electrical Engineering Drawing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

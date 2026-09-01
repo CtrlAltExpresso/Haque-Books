@@ -1,5 +1,7 @@
 # Transportation Engineering-II
 
+[⬇ Download this book (PDF, 119.4 MB)](https://archive.org/download/haque-books-civil-technology/Transportation%20Engineering-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26473` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Transportation Engineering-II.pdf` |
 | **Size** | 119.4 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Transportation Engineering-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Transportation Engineering-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

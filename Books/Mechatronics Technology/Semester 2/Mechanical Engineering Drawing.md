@@ -1,5 +1,7 @@
 # Mechanical Engineering Drawing
 
+[⬇ Download this book (PDF, 79.7 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Engineering%20Drawing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27021` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Mechanical Engineering Drawing.pdf` |
 | **Size** | 79.7 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Mechanical Engineering Drawing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mechanical Engineering Drawing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

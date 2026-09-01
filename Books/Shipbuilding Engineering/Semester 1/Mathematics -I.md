@@ -1,5 +1,7 @@
 # Mathematics -I
 
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Mathematics%20-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25911` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Mathematics -I.pdf` |
 | **Size** | 107.4 MB |
-| **Source** | `shipbuilding-engineering.zip` |
 
-Download the `shipbuilding-engineering.zip` from Internet Archive, then extract `Mathematics -I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Mathematics -I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip"
-unzip shipbuilding-engineering.zip
-```
+**Whole-department zip** (all books in this department): [`shipbuilding-engineering.zip`](https://archive.org/download/haque-books-shipbuilding-engineering/shipbuilding-engineering.zip)

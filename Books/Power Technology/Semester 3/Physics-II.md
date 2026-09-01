@@ -1,5 +1,7 @@
 # Physics-II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-power-technology/Physics-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Physics-II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `power-technology.zip` |
 
-Download the `power-technology.zip` from Internet Archive, then extract `Physics-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-power-technology/power-technology.zip"
-unzip power-technology.zip
-```
+**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

@@ -1,5 +1,7 @@
 # Plant Engineering & Maintainance
 
+[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-mechanical-technology/Plant%20Engineering%20%26%20Maintainance.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27065` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Plant Engineering & Maintainance.pdf` |
 | **Size** | 108.5 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Plant Engineering & Maintainance.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Plant Engineering & Maintainance.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

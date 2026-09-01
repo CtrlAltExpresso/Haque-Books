@@ -1,5 +1,7 @@
 # Computer office Application
 
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-geoinformatics-technology/Computer%20office%20Application.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28511` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Computer office Application.pdf` |
 | **Size** | 114.3 MB |
-| **Source** | `geoinformatics-technology.zip` |
 
-Download the `geoinformatics-technology.zip` from Internet Archive, then extract `Computer office Application.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer office Application.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-geoinformatics-technology/geoinformatics-technology.zip"
-unzip geoinformatics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`geoinformatics-technology.zip`](https://archive.org/download/haque-books-geoinformatics-technology/geoinformatics-technology.zip)

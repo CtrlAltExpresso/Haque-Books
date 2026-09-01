@@ -1,5 +1,7 @@
 # Electrical Circuits-I
 
+[⬇ Download this book (PDF, 89.7 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Circuits-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26721` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Electrical Circuits-I.pdf` |
 | **Size** | 89.7 MB |
-| **Source** | `electrical-technology.zip` |
 
-Download the `electrical-technology.zip` from Internet Archive, then extract `Electrical Circuits-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electrical Circuits-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip"
-unzip electrical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electrical-technology.zip`](https://archive.org/download/haque-books-electrical-technology/electrical-technology.zip)

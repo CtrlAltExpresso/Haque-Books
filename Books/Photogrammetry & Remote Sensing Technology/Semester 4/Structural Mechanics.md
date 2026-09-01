@@ -1,5 +1,7 @@
 # Structural Mechanics
 
+[⬇ Download this book (PDF, 138.2 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Structural%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26431` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Structural Mechanics.pdf` |
 | **Size** | 138.2 MB |
-| **Source** | `photogrammetry-remote-sensing-technology.zip` |
 
-Download the `photogrammetry-remote-sensing-technology.zip` from Internet Archive, then extract `Structural Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Structural Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip"
-unzip photogrammetry-remote-sensing-technology.zip
-```
+**Whole-department zip** (all books in this department): [`photogrammetry-remote-sensing-technology.zip`](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/photogrammetry-remote-sensing-technology.zip)

@@ -1,5 +1,7 @@
 # Chemistry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-electronics-technology/Chemistry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Chemistry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Chemistry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemistry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

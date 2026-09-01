@@ -1,5 +1,7 @@
 # Multimedia & Animation
 
+[⬇ Download this book (PDF, 135.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Multimedia%20%26%20Animation.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28575` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Multimedia & Animation.pdf` |
 | **Size** | 135.5 MB |
-| **Source** | `computer-science-technology.zip` |
 
-Download the `computer-science-technology.zip` from Internet Archive, then extract `Multimedia & Animation.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Multimedia & Animation.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip"
-unzip computer-science-technology.zip
-```
+**Whole-department zip** (all books in this department): [`computer-science-technology.zip`](https://archive.org/download/haque-books-computer-science-technology/computer-science-technology.zip)

@@ -1,5 +1,7 @@
 # Principles of Marketing
 
+[⬇ Download this book (PDF, 91.8 MB)](https://archive.org/download/haque-books-environmental-technology/Principles%20of%20Marketing.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25851` |
@@ -7,11 +9,7 @@
 | **Semester** | 7 |
 | **File** | `Principles of Marketing.pdf` |
 | **Size** | 91.8 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Principles of Marketing.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Principles of Marketing.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

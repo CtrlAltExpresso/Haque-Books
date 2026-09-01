@@ -1,5 +1,7 @@
 # Accounting
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Accounting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Accounting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

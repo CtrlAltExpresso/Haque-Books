@@ -1,5 +1,7 @@
 # Electrical & Electronic Measurements-II
 
+[⬇ Download this book (PDF, 69.1 MB)](https://archive.org/download/haque-books-electromedical-technology/Electrical%20%26%20Electronic%20Measurements-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26763` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Electrical & Electronic Measurements-II.pdf` |
 | **Size** | 69.1 MB |
-| **Source** | `electromedical-technology.zip` |
 
-Download the `electromedical-technology.zip` from Internet Archive, then extract `Electrical & Electronic Measurements-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electrical & Electronic Measurements-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip"
-unzip electromedical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electromedical-technology.zip`](https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip)

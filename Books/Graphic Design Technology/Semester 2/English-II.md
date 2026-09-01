@@ -1,5 +1,7 @@
 # English-II
 
+[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-graphic-design-technology/English-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25722` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `English-II.pdf` |
 | **Size** | 160.1 MB |
-| **Source** | `graphic-design-technology.zip` |
 
-Download the `graphic-design-technology.zip` from Internet Archive, then extract `English-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (English-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip"
-unzip graphic-design-technology.zip
-```
+**Whole-department zip** (all books in this department): [`graphic-design-technology.zip`](https://archive.org/download/haque-books-graphic-design-technology/graphic-design-technology.zip)

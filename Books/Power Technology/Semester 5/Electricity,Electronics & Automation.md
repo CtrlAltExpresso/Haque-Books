@@ -1,5 +1,7 @@
 # Electricity,Electronics & Automation
 
+[⬇ Download this book (PDF, 144.9 MB)](https://archive.org/download/haque-books-power-technology/Electricity%2CElectronics%20%26%20Automation.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27151` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Electricity,Electronics & Automation.pdf` |
 | **Size** | 144.9 MB |
-| **Source** | `power-technology.zip` |
 
-Download the `power-technology.zip` from Internet Archive, then extract `Electricity,Electronics & Automation.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electricity,Electronics & Automation.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-power-technology/power-technology.zip"
-unzip power-technology.zip
-```
+**Whole-department zip** (all books in this department): [`power-technology.zip`](https://archive.org/download/haque-books-power-technology/power-technology.zip)

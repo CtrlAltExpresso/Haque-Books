@@ -1,5 +1,7 @@
 # Geotechnical Engineering
 
+[⬇ Download this book (PDF, 62.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Geotechnical%20Engineering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26445` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Geotechnical Engineering.pdf` |
 | **Size** | 62.8 MB |
-| **Source** | `civil-wood-technology.zip` |
 
-Download the `civil-wood-technology.zip` from Internet Archive, then extract `Geotechnical Engineering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Geotechnical Engineering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip"
-unzip civil-wood-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-wood-technology.zip`](https://archive.org/download/haque-books-civil-wood-technology/civil-wood-technology.zip)

@@ -1,5 +1,7 @@
 # Accounting
 
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-food-technology/Accounting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25841` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
-| **Source** | `food-technology.zip` |
 
-Download the `food-technology.zip` from Internet Archive, then extract `Accounting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Accounting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-food-technology/food-technology.zip"
-unzip food-technology.zip
-```
+**Whole-department zip** (all books in this department): [`food-technology.zip`](https://archive.org/download/haque-books-food-technology/food-technology.zip)

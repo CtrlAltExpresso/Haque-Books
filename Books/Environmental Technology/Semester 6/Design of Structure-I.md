@@ -1,5 +1,7 @@
 # Design of Structure-I
 
+[⬇ Download this book (PDF, 104.8 MB)](https://archive.org/download/haque-books-environmental-technology/Design%20of%20Structure-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26464` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Design of Structure-I.pdf` |
 | **Size** | 104.8 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Design of Structure-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Design of Structure-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

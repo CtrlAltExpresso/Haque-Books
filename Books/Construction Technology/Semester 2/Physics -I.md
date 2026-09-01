@@ -1,5 +1,7 @@
 # Physics -I
 
+[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-construction-technology/Physics%20-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25912` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics -I.pdf` |
 | **Size** | 110.1 MB |
-| **Source** | `construction-technology.zip` |
 
-Download the `construction-technology.zip` from Internet Archive, then extract `Physics -I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics -I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-construction-technology/construction-technology.zip"
-unzip construction-technology.zip
-```
+**Whole-department zip** (all books in this department): [`construction-technology.zip`](https://archive.org/download/haque-books-construction-technology/construction-technology.zip)

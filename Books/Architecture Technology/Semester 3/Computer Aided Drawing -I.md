@@ -1,5 +1,7 @@
 # Computer Aided Drawing -I
 
+[⬇ Download this book (PDF, 112.3 MB)](https://archive.org/download/haque-books-architecture-technology/Computer%20Aided%20Drawing%20-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26135` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Computer Aided Drawing -I.pdf` |
 | **Size** | 112.3 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Computer Aided Drawing -I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer Aided Drawing -I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

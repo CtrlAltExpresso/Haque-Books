@@ -1,5 +1,7 @@
 # Electronic Devices & Circuits
 
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-mechatronics-technology/Electronic%20Devices%20%26%20Circuits.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26821` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Electronic Devices & Circuits.pdf` |
 | **Size** | 112.1 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Electronic Devices & Circuits.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electronic Devices & Circuits.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

@@ -1,5 +1,7 @@
 # Advance Surveying
 
+[⬇ Download this book (PDF, 59.8 MB)](https://archive.org/download/haque-books-civil-technology/Advance%20Surveying.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26462` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `Advance Surveying.pdf` |
 | **Size** | 59.8 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Advance Surveying.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Advance Surveying.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

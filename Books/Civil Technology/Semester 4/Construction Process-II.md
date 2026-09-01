@@ -1,5 +1,7 @@
 # Construction Process-II
 
+[⬇ Download this book (PDF, 141.0 MB)](https://archive.org/download/haque-books-civil-technology/Construction%20Process-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26441` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Construction Process-II.pdf` |
 | **Size** | 141.0 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Construction Process-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Construction Process-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

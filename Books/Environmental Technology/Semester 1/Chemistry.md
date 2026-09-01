@@ -1,5 +1,7 @@
 # Chemistry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-environmental-technology/Chemistry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Chemistry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Chemistry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemistry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

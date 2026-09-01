@@ -1,5 +1,7 @@
 # TV Studio and Broadcasting
 
+[⬇ Download this book (PDF, 71.3 MB)](https://archive.org/download/haque-books-electronics-technology/TV%20Studio%20and%20Broadcasting.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26861` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `TV Studio and Broadcasting.pdf` |
 | **Size** | 71.3 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `TV Studio and Broadcasting.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (TV Studio and Broadcasting.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

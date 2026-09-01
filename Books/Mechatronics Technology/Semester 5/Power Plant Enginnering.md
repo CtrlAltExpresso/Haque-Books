@@ -1,5 +1,7 @@
 # Power Plant Enginnering
 
+[⬇ Download this book (PDF, 144.6 MB)](https://archive.org/download/haque-books-mechatronics-technology/Power%20Plant%20Enginnering.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27152` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Power Plant Enginnering.pdf` |
 | **Size** | 144.6 MB |
-| **Source** | `mechatronics-technology.zip` |
 
-Download the `mechatronics-technology.zip` from Internet Archive, then extract `Power Plant Enginnering.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Power Plant Enginnering.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip"
-unzip mechatronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechatronics-technology.zip`](https://archive.org/download/haque-books-mechatronics-technology/mechatronics-technology.zip)

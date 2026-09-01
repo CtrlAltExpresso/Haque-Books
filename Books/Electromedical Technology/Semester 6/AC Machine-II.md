@@ -1,5 +1,7 @@
 # AC Machine-II
 
+[⬇ Download this book (PDF, 112.2 MB)](https://archive.org/download/haque-books-electromedical-technology/AC%20Machine-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26771` |
@@ -7,11 +9,7 @@
 | **Semester** | 6 |
 | **File** | `AC Machine-II.pdf` |
 | **Size** | 112.2 MB |
-| **Source** | `electromedical-technology.zip` |
 
-Download the `electromedical-technology.zip` from Internet Archive, then extract `AC Machine-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (AC Machine-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip"
-unzip electromedical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electromedical-technology.zip`](https://archive.org/download/haque-books-electromedical-technology/electromedical-technology.zip)

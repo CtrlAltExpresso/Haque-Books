@@ -1,5 +1,7 @@
 # Chemesitry
 
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-ceramic-technology/Chemesitry.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25913` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Chemesitry.pdf` |
 | **Size** | 143.9 MB |
-| **Source** | `ceramic-technology.zip` |
 
-Download the `ceramic-technology.zip` from Internet Archive, then extract `Chemesitry.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Chemesitry.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip"
-unzip ceramic-technology.zip
-```
+**Whole-department zip** (all books in this department): [`ceramic-technology.zip`](https://archive.org/download/haque-books-ceramic-technology/ceramic-technology.zip)

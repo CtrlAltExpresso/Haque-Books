@@ -1,5 +1,7 @@
 # Bangla-I
 
+[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-automobile-technology/Bangla-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25711` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Bangla-I.pdf` |
 | **Size** | 110.2 MB |
-| **Source** | `automobile-technology.zip` |
 
-Download the `automobile-technology.zip` from Internet Archive, then extract `Bangla-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Bangla-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip"
-unzip automobile-technology.zip
-```
+**Whole-department zip** (all books in this department): [`automobile-technology.zip`](https://archive.org/download/haque-books-automobile-technology/automobile-technology.zip)

@@ -1,5 +1,7 @@
 # Wood Workshop Practice
 
+[⬇ Download this book (PDF, 81.8 MB)](https://archive.org/download/haque-books-civil-technology/Wood%20Workshop%20Practice.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26521` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Wood Workshop Practice.pdf` |
 | **Size** | 81.8 MB |
-| **Source** | `civil-technology.zip` |
 
-Download the `civil-technology.zip` from Internet Archive, then extract `Wood Workshop Practice.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Wood Workshop Practice.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-civil-technology/civil-technology.zip"
-unzip civil-technology.zip
-```
+**Whole-department zip** (all books in this department): [`civil-technology.zip`](https://archive.org/download/haque-books-civil-technology/civil-technology.zip)

@@ -1,5 +1,7 @@
 # Architectural Design-I
 
+[⬇ Download this book (PDF, 196.4 MB)](https://archive.org/download/haque-books-architecture-technology/Architectural%20Design-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26121` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Architectural Design-I.pdf` |
 | **Size** | 196.4 MB |
-| **Source** | `architecture-technology.zip` |
 
-Download the `architecture-technology.zip` from Internet Archive, then extract `Architectural Design-I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Architectural Design-I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip"
-unzip architecture-technology.zip
-```
+**Whole-department zip** (all books in this department): [`architecture-technology.zip`](https://archive.org/download/haque-books-architecture-technology/architecture-technology.zip)

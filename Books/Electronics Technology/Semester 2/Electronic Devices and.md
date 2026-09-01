@@ -1,5 +1,7 @@
 # Electronic Devices and
 
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Devices%20and.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26821` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Electronic Devices and.pdf` |
 | **Size** | 112.1 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `Electronic Devices and.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Electronic Devices and.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

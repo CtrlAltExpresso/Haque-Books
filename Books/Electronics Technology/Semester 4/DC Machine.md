@@ -1,5 +1,7 @@
 # DC Machine
 
+[⬇ Download this book (PDF, 63.8 MB)](https://archive.org/download/haque-books-electronics-technology/DC%20Machine.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26742` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `DC Machine.pdf` |
 | **Size** | 63.8 MB |
-| **Source** | `electronics-technology.zip` |
 
-Download the `electronics-technology.zip` from Internet Archive, then extract `DC Machine.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (DC Machine.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip"
-unzip electronics-technology.zip
-```
+**Whole-department zip** (all books in this department): [`electronics-technology.zip`](https://archive.org/download/haque-books-electronics-technology/electronics-technology.zip)

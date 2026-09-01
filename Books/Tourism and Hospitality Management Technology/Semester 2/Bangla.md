@@ -1,5 +1,7 @@
 # Bangla
 
+[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Bangla.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25721` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Bangla.pdf` |
 | **Size** | 163.4 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `Bangla.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Bangla.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

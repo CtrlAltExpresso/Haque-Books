@@ -1,5 +1,7 @@
 # Social Science
 
+[⬇ Download this book (PDF, 149.7 MB)](https://archive.org/download/haque-books-footwear-technology/Social%20Science.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25811` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Social Science.pdf` |
 | **Size** | 149.7 MB |
-| **Source** | `footwear-technology.zip` |
 
-Download the `footwear-technology.zip` from Internet Archive, then extract `Social Science.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Social Science.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip"
-unzip footwear-technology.zip
-```
+**Whole-department zip** (all books in this department): [`footwear-technology.zip`](https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip)

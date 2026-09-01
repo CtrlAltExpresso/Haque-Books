@@ -1,5 +1,7 @@
 # Physics -I
 
+[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-food-technology/Physics%20-I.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25912` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics -I.pdf` |
 | **Size** | 110.1 MB |
-| **Source** | `food-technology.zip` |
 
-Download the `food-technology.zip` from Internet Archive, then extract `Physics -I.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics -I.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-food-technology/food-technology.zip"
-unzip food-technology.zip
-```
+**Whole-department zip** (all books in this department): [`food-technology.zip`](https://archive.org/download/haque-books-food-technology/food-technology.zip)

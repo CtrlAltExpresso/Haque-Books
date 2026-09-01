@@ -1,5 +1,7 @@
 # Structural Mechanics
 
+[⬇ Download this book (PDF, 138.2 MB)](https://archive.org/download/haque-books-environmental-technology/Structural%20Mechanics.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26431` |
@@ -7,11 +9,7 @@
 | **Semester** | 4 |
 | **File** | `Structural Mechanics.pdf` |
 | **Size** | 138.2 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Structural Mechanics.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Structural Mechanics.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

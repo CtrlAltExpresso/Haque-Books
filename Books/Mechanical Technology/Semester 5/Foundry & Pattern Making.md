@@ -1,5 +1,7 @@
 # Foundry & Pattern Making
 
+[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Foundry%20%26%20Pattern%20Making.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27054` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Foundry & Pattern Making.pdf` |
 | **Size** | 139.1 MB |
-| **Source** | `mechanical-technology.zip` |
 
-Download the `mechanical-technology.zip` from Internet Archive, then extract `Foundry & Pattern Making.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Foundry & Pattern Making.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip"
-unzip mechanical-technology.zip
-```
+**Whole-department zip** (all books in this department): [`mechanical-technology.zip`](https://archive.org/download/haque-books-mechanical-technology/mechanical-technology.zip)

@@ -1,5 +1,7 @@
 # Automobile Fundamentals
 
+[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-rac-technology/Automobile%20Fundamentals.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26211` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Automobile Fundamentals.pdf` |
 | **Size** | 139.1 MB |
-| **Source** | `rac-technology.zip` |
 
-Download the `rac-technology.zip` from Internet Archive, then extract `Automobile Fundamentals.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Automobile Fundamentals.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-rac-technology/rac-technology.zip"
-unzip rac-technology.zip
-```
+**Whole-department zip** (all books in this department): [`rac-technology.zip`](https://archive.org/download/haque-books-rac-technology/rac-technology.zip)

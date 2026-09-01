@@ -1,5 +1,7 @@
 # Physical Education & Life Skill Development
 
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Physical%20Education%20%26%20Life%20Skill%20Development.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25812` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Physical Education & Life Skill Development.pdf` |
 | **Size** | 68.0 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `Physical Education & Life Skill Development.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physical Education & Life Skill Development.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

@@ -1,5 +1,7 @@
 # Computer Office Application
 
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Computer%20Office%20Application.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `28511` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Computer Office Application.pdf` |
 | **Size** | 114.3 MB |
-| **Source** | `tourism-and-hospitality-management-technology.zip` |
 
-Download the `tourism-and-hospitality-management-technology.zip` from Internet Archive, then extract `Computer Office Application.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Computer Office Application.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip"
-unzip tourism-and-hospitality-management-technology.zip
-```
+**Whole-department zip** (all books in this department): [`tourism-and-hospitality-management-technology.zip`](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/tourism-and-hospitality-management-technology.zip)

@@ -1,5 +1,7 @@
 # Construction Process-II
 
+[⬇ Download this book (PDF, 141.0 MB)](https://archive.org/download/haque-books-environmental-technology/Construction%20Process-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `26441` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Construction Process-II.pdf` |
 | **Size** | 141.0 MB |
-| **Source** | `environmental-technology.zip` |
 
-Download the `environmental-technology.zip` from Internet Archive, then extract `Construction Process-II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Construction Process-II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip"
-unzip environmental-technology.zip
-```
+**Whole-department zip** (all books in this department): [`environmental-technology.zip`](https://archive.org/download/haque-books-environmental-technology/environmental-technology.zip)

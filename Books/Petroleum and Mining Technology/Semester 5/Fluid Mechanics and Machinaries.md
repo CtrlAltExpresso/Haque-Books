@@ -1,5 +1,7 @@
 # Fluid Mechanics and Machinaries
 
+[⬇ Download this book (PDF, 138.6 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Fluid%20Mechanics%20and%20Machinaries.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27051` |
@@ -7,11 +9,7 @@
 | **Semester** | 5 |
 | **File** | `Fluid Mechanics and Machinaries.pdf` |
 | **Size** | 138.6 MB |
-| **Source** | `petroleum-and-mining-technology.zip` |
 
-Download the `petroleum-and-mining-technology.zip` from Internet Archive, then extract `Fluid Mechanics and Machinaries.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Fluid Mechanics and Machinaries.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip"
-unzip petroleum-and-mining-technology.zip
-```
+**Whole-department zip** (all books in this department): [`petroleum-and-mining-technology.zip`](https://archive.org/download/haque-books-petroleum-and-mining-technology/petroleum-and-mining-technology.zip)

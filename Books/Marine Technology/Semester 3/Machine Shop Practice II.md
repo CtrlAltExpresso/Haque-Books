@@ -1,5 +1,7 @@
 # Machine Shop Practice II
 
+[⬇ Download this book (PDF, 93.8 MB)](https://archive.org/download/haque-books-marine-technology/Machine%20Shop%20Practice%20II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27032` |
@@ -7,11 +9,7 @@
 | **Semester** | 3 |
 | **File** | `Machine Shop Practice II.pdf` |
 | **Size** | 93.8 MB |
-| **Source** | `marine-technology.zip` |
 
-Download the `marine-technology.zip` from Internet Archive, then extract `Machine Shop Practice II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Machine Shop Practice II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-marine-technology/marine-technology.zip"
-unzip marine-technology.zip
-```
+**Whole-department zip** (all books in this department): [`marine-technology.zip`](https://archive.org/download/haque-books-marine-technology/marine-technology.zip)

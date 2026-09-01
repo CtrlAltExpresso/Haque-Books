@@ -1,5 +1,7 @@
 # Basic Workshop Practice
 
+[⬇ Download this book (PDF, 106.9 MB)](https://archive.org/download/haque-books-footwear-technology/Basic%20Workshop%20Practice.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `27011` |
@@ -7,11 +9,7 @@
 | **Semester** | 1 |
 | **File** | `Basic Workshop Practice.pdf` |
 | **Size** | 106.9 MB |
-| **Source** | `footwear-technology.zip` |
 
-Download the `footwear-technology.zip` from Internet Archive, then extract `Basic Workshop Practice.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Basic Workshop Practice.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip"
-unzip footwear-technology.zip
-```
+**Whole-department zip** (all books in this department): [`footwear-technology.zip`](https://archive.org/download/haque-books-footwear-technology/footwear-technology.zip)

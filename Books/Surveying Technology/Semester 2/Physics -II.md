@@ -1,5 +1,7 @@
 # Physics -II
 
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-surveying-technology/Physics%20-II.pdf)
+
 | | |
 |---|---|
 | **Subject code** | `25922` |
@@ -7,11 +9,7 @@
 | **Semester** | 2 |
 | **File** | `Physics -II.pdf` |
 | **Size** | 133.4 MB |
-| **Source** | `surveying-technology.zip` |
 
-Download the `surveying-technology.zip` from Internet Archive, then extract `Physics -II.pdf`. Whole-department zip:
+One click above downloads just this book's PDF (Physics -II.pdf) directly.
 
-```bash
-curl -LO "https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip"
-unzip surveying-technology.zip
-```
+**Whole-department zip** (all books in this department): [`surveying-technology.zip`](https://archive.org/download/haque-books-surveying-technology/surveying-technology.zip)
