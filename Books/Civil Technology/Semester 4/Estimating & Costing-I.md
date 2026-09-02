@@ -1,6 +1,6 @@
 # Estimating & Costing-I
 
-[⬇ Download this book (PDF, 63.3 MB)](https://archive.org/download/haque-books-civil-technology/Estimating%20%26%20Costing-I.pdf?download=1)
+[⬇ Download this book (PDF, 63.3 MB)](https://archive.org/download/haque-books-civil-technology/Estimating%20%26%20Costing-I.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Estimating & Costing-I.pdf` |
 | **Size** | 63.3 MB |
 
-One click above downloads just this book's PDF (Estimating & Costing-I.pdf) directly.
+Click downloads this book's PDF (Estimating & Costing-I.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

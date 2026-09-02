@@ -1,6 +1,6 @@
 # Design of Structure -II
 
-[⬇ Download this book (PDF, 114.9 MB)](https://archive.org/download/haque-books-surveying-technology/Design%20of%20Structure%20-II.pdf?download=1)
+[⬇ Download this book (PDF, 114.9 MB)](https://archive.org/download/haque-books-surveying-technology/Design%20of%20Structure%20-II.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Design of Structure -II.pdf` |
 | **Size** | 114.9 MB |
 
-One click above downloads just this book's PDF (Design of Structure -II.pdf) directly.
+Click downloads this book's PDF (Design of Structure -II.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

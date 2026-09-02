@@ -1,6 +1,6 @@
 # Python Progamming
 
-[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Python%20Progamming.pdf?download=1)
+[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Python%20Progamming.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Python Progamming.pdf` |
 | **Size** | 60.2 MB |
 
-One click above downloads just this book's PDF (Python Progamming.pdf) directly.
+Click downloads this book's PDF (Python Progamming.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

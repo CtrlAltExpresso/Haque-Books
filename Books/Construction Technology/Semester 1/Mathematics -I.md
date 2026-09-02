@@ -1,6 +1,6 @@
 # Mathematics -I
 
-[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-construction-technology/Mathematics%20-I.pdf?download=1)
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-construction-technology/Mathematics%20-I.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Mathematics -I.pdf` |
 | **Size** | 107.4 MB |
 
-One click above downloads just this book's PDF (Mathematics -I.pdf) directly.
+Click downloads this book's PDF (Mathematics -I.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

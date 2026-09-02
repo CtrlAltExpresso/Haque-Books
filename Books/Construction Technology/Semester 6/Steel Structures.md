@@ -1,6 +1,6 @@
 # Steel Structures
 
-[⬇ Download this book (PDF, 41.1 MB)](https://archive.org/download/haque-books-construction-technology/Steel%20Structures.pdf?download=1)
+[⬇ Download this book (PDF, 41.1 MB)](https://archive.org/download/haque-books-construction-technology/Steel%20Structures.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Steel Structures.pdf` |
 | **Size** | 41.1 MB |
 
-One click above downloads just this book's PDF (Steel Structures.pdf) directly.
+Click downloads this book's PDF (Steel Structures.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

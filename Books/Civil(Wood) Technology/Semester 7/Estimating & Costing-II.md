@@ -1,6 +1,6 @@
 # Estimating & Costing-II
 
-[⬇ Download this book (PDF, 202.3 MB)](https://archive.org/download/haque-books-civil-wood-technology/Estimating%20%26%20Costing-II.pdf?download=1)
+[⬇ Download this book (PDF, 202.3 MB)](https://archive.org/download/haque-books-civil-wood-technology/Estimating%20%26%20Costing-II.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Estimating & Costing-II.pdf` |
 | **Size** | 202.3 MB |
 
-One click above downloads just this book's PDF (Estimating & Costing-II.pdf) directly.
+Click downloads this book's PDF (Estimating & Costing-II.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

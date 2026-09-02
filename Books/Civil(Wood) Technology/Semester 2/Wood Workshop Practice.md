@@ -1,6 +1,6 @@
 # Wood Workshop Practice
 
-[⬇ Download this book (PDF, 81.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Wood%20Workshop%20Practice.pdf?download=1)
+[⬇ Download this book (PDF, 81.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Wood%20Workshop%20Practice.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Wood Workshop Practice.pdf` |
 | **Size** | 81.8 MB |
 
-One click above downloads just this book's PDF (Wood Workshop Practice.pdf) directly.
+Click downloads this book's PDF (Wood Workshop Practice.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

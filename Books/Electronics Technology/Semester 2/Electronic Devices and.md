@@ -1,6 +1,6 @@
 # Electronic Devices and
 
-[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Devices%20and.pdf?download=1)
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Devices%20and.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Electronic Devices and.pdf` |
 | **Size** | 112.1 MB |
 
-One click above downloads just this book's PDF (Electronic Devices and.pdf) directly.
+Click downloads this book's PDF (Electronic Devices and.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

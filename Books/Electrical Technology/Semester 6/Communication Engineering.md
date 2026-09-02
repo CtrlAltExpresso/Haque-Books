@@ -1,6 +1,6 @@
 # Communication Engineering
 
-[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-electrical-technology/Communication%20Engineering.pdf?download=1)
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-electrical-technology/Communication%20Engineering.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Communication Engineering.pdf` |
 | **Size** | 118.6 MB |
 
-One click above downloads just this book's PDF (Communication Engineering.pdf) directly.
+Click downloads this book's PDF (Communication Engineering.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

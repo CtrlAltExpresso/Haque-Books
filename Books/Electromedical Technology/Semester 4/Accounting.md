@@ -1,6 +1,6 @@
 # Accounting
 
-[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-electromedical-technology/Accounting.pdf?download=1)
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-electromedical-technology/Accounting.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Accounting.pdf` |
 | **Size** | 67.1 MB |
 
-One click above downloads just this book's PDF (Accounting.pdf) directly.
+Click downloads this book's PDF (Accounting.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

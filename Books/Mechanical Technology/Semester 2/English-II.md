@@ -1,6 +1,6 @@
 # English-II
 
-[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-mechanical-technology/English-II.pdf?download=1)
+[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-mechanical-technology/English-II.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `English-II.pdf` |
 | **Size** | 160.1 MB |
 
-One click above downloads just this book's PDF (English-II.pdf) directly.
+Click downloads this book's PDF (English-II.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

@@ -1,6 +1,6 @@
 # Metallurgy
 
-[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-automobile-technology/Metallurgy.pdf?download=1)
+[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-automobile-technology/Metallurgy.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Metallurgy.pdf` |
 | **Size** | 81.6 MB |
 
-One click above downloads just this book's PDF (Metallurgy.pdf) directly.
+Click downloads this book's PDF (Metallurgy.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

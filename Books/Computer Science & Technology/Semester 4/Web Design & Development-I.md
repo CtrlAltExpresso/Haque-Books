@@ -1,6 +1,6 @@
 # Web Design & Development-I
 
-[⬇ Download this book (PDF, 38.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Design%20%26%20Development-I.pdf?download=1)
+[⬇ Download this book (PDF, 38.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Design%20%26%20Development-I.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Web Design & Development-I.pdf` |
 | **Size** | 38.6 MB |
 
-One click above downloads just this book's PDF (Web Design & Development-I.pdf) directly.
+Click downloads this book's PDF (Web Design & Development-I.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).

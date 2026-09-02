@@ -1,6 +1,6 @@
 # Strength of Materials
 
-[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-rac-technology/Strength%20of%20Materials.pdf?download=1)
+[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-rac-technology/Strength%20of%20Materials.pdf)
 
 | | |
 |---|---|
@@ -10,4 +10,6 @@
 | **File** | `Strength of Materials.pdf` |
 | **Size** | 101.3 MB |
 
-One click above downloads just this book's PDF (Strength of Materials.pdf) directly.
+Click downloads this book's PDF (Strength of Materials.pdf) directly.
+
+> **Save instead of view:** in Chrome, set *Settings → Downloads → "Download PDF files instead of automatically opening them"* — then a click always saves. Or right-click the link above and choose *Save Link As…* (tap-and-hold on mobile).
