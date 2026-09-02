@@ -18,7 +18,7 @@ Click downloads this book's PDF (Transportation Enggineering-II.pdf) directly.
 
 ![How to save on mobile](https://raw.githubusercontent.com/CtrlAltExpresso/Haque-Books/main/assets/save-mobile.gif)
 
-**On a phone / tablet (most people)**
+**On a phone / tablet**
 1. **Press and hold** the *"Download this book"* link above.
 2. In the menu, tap **"Download Link"** (or **"Save Link"**).
 3. The PDF is saved to your phone's **Downloads** folder.
