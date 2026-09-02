@@ -1,6 +1,6 @@
 # AC Machine-I
 
-[⬇ Download this book (PDF, 118.3 MB)](https://archive.org/download/haque-books-telecommunication-technology/AC%20Machine-I.pdf)
+[⬇ Download this book (PDF, 118.3 MB)](https://archive.org/download/haque-books-telecommunication-technology/AC%20Machine-I.pdf?download=1)
 
 | | |
 |---|---|

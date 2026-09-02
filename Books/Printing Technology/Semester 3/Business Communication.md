@@ -1,6 +1,6 @@
 # Business Communication
 
-[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-printing-technology/Business%20Communication.pdf)
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-printing-technology/Business%20Communication.pdf?download=1)
 
 | | |
 |---|---|

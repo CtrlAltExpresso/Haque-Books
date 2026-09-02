@@ -1,6 +1,6 @@
 # Industrial Automation and PLC
 
-[⬇ Download this book (PDF, 87.6 MB)](https://archive.org/download/haque-books-electronics-technology/Industrial%20Automation%20and%20PLC.pdf)
+[⬇ Download this book (PDF, 87.6 MB)](https://archive.org/download/haque-books-electronics-technology/Industrial%20Automation%20and%20PLC.pdf?download=1)
 
 | | |
 |---|---|

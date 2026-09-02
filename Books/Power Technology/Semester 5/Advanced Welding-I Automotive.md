@@ -1,6 +1,6 @@
 # Advanced Welding-I Automotive
 
-[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-power-technology/Advanced%20Welding-I%20Automotive.pdf)
+[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-power-technology/Advanced%20Welding-I%20Automotive.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Physics -II
 
-[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Physics%20-II.pdf)
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Physics%20-II.pdf?download=1)
 
 | | |
 |---|---|

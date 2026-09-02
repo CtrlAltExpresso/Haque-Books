@@ -1,6 +1,6 @@
 # Fluid Mechanics & Machineries
 
-[⬇ Download this book (PDF, 138.6 MB)](https://archive.org/download/haque-books-rac-technology/Fluid%20Mechanics%20%26%20Machineries.pdf)
+[⬇ Download this book (PDF, 138.6 MB)](https://archive.org/download/haque-books-rac-technology/Fluid%20Mechanics%20%26%20Machineries.pdf?download=1)
 
 | | |
 |---|---|

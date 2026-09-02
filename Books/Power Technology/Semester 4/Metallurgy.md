@@ -1,6 +1,6 @@
 # Metallurgy
 
-[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-power-technology/Metallurgy.pdf)
+[⬇ Download this book (PDF, 81.6 MB)](https://archive.org/download/haque-books-power-technology/Metallurgy.pdf?download=1)
 
 | | |
 |---|---|

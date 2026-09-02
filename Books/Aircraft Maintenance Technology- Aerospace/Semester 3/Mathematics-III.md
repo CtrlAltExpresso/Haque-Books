@@ -1,6 +1,6 @@
 # Mathematics-III
 
-[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Mathematics-III.pdf)
+[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Mathematics-III.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Python Programming
 
-[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Python%20Programming.pdf)
+[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Python%20Programming.pdf?download=1)
 
 | | |
 |---|---|

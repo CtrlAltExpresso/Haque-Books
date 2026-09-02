@@ -1,6 +1,6 @@
 # Accounting
 
-[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-glass-technology/Accounting.pdf)
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-glass-technology/Accounting.pdf?download=1)
 
 | | |
 |---|---|

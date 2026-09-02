@@ -1,6 +1,6 @@
 # Mechatronics and PLC
 
-[⬇ Download this book (PDF, 156.5 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Mechatronics%20and%20PLC.pdf)
+[⬇ Download this book (PDF, 156.5 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Mechatronics%20and%20PLC.pdf?download=1)
 
 | | |
 |---|---|

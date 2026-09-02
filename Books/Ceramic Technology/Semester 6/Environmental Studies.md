@@ -1,6 +1,6 @@
 # Environmental Studies
 
-[⬇ Download this book (PDF, 139.7 MB)](https://archive.org/download/haque-books-ceramic-technology/Environmental%20Studies.pdf)
+[⬇ Download this book (PDF, 139.7 MB)](https://archive.org/download/haque-books-ceramic-technology/Environmental%20Studies.pdf?download=1)
 
 | | |
 |---|---|

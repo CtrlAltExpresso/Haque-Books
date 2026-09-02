@@ -1,6 +1,6 @@
 # Geotechnical Engineering
 
-[⬇ Download this book (PDF, 62.8 MB)](https://archive.org/download/haque-books-civil-technology/Geotechnical%20Engineering.pdf)
+[⬇ Download this book (PDF, 62.8 MB)](https://archive.org/download/haque-books-civil-technology/Geotechnical%20Engineering.pdf?download=1)
 
 | | |
 |---|---|

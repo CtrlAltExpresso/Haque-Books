@@ -1,6 +1,6 @@
 # Project Work-I
 
-[⬇ Download this book (PDF, 44.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Project%20Work-I.pdf)
+[⬇ Download this book (PDF, 44.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Project%20Work-I.pdf?download=1)
 
 | | |
 |---|---|

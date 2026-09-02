@@ -1,6 +1,6 @@
 # Electricity,Electronics & Automation
 
-[⬇ Download this book (PDF, 144.9 MB)](https://archive.org/download/haque-books-power-technology/Electricity%2CElectronics%20%26%20Automation.pdf)
+[⬇ Download this book (PDF, 144.9 MB)](https://archive.org/download/haque-books-power-technology/Electricity%2CElectronics%20%26%20Automation.pdf?download=1)
 
 | | |
 |---|---|

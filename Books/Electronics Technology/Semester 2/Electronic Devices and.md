@@ -1,6 +1,6 @@
 # Electronic Devices and
 
-[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Devices%20and.pdf)
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Devices%20and.pdf?download=1)
 
 | | |
 |---|---|

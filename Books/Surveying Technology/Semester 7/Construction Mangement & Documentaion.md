@@ -1,6 +1,6 @@
 # Construction Mangement & Documentaion
 
-[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-surveying-technology/Construction%20Mangement%20%26%20Documentaion.pdf)
+[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-surveying-technology/Construction%20Mangement%20%26%20Documentaion.pdf?download=1)
 
 | | |
 |---|---|

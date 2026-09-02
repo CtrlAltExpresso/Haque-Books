@@ -1,6 +1,6 @@
 # Estimating & Costing-II
 
-[⬇ Download this book (PDF, 202.3 MB)](https://archive.org/download/haque-books-civil-technology/Estimating%20%26%20Costing-II.pdf)
+[⬇ Download this book (PDF, 202.3 MB)](https://archive.org/download/haque-books-civil-technology/Estimating%20%26%20Costing-II.pdf?download=1)
 
 | | |
 |---|---|

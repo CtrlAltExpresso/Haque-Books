@@ -1,6 +1,6 @@
 # Civil CAD-I
 
-[⬇ Download this book (PDF, 61.9 MB)](https://archive.org/download/haque-books-construction-technology/Civil%20CAD-I.pdf)
+[⬇ Download this book (PDF, 61.9 MB)](https://archive.org/download/haque-books-construction-technology/Civil%20CAD-I.pdf?download=1)
 
 | | |
 |---|---|

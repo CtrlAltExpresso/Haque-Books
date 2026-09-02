@@ -1,6 +1,6 @@
 # Microwave Radar and Navigation Aids
 
-[⬇ Download this book (PDF, 91.5 MB)](https://archive.org/download/haque-books-electronics-technology/Microwave%20Radar%20and%20Navigation%20Aids.pdf)
+[⬇ Download this book (PDF, 91.5 MB)](https://archive.org/download/haque-books-electronics-technology/Microwave%20Radar%20and%20Navigation%20Aids.pdf?download=1)
 
 | | |
 |---|---|

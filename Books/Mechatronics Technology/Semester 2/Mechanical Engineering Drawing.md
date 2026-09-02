@@ -1,6 +1,6 @@
 # Mechanical Engineering Drawing
 
-[⬇ Download this book (PDF, 79.7 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Engineering%20Drawing.pdf)
+[⬇ Download this book (PDF, 79.7 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Engineering%20Drawing.pdf?download=1)
 
 | | |
 |---|---|

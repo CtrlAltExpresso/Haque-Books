@@ -1,6 +1,6 @@
 # Accounting
 
-[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Accounting.pdf)
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Accounting.pdf?download=1)
 
 | | |
 |---|---|

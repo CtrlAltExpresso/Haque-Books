@@ -1,6 +1,6 @@
 # Data Communication
 
-[⬇ Download this book (PDF, 127.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Data%20Communication.pdf)
+[⬇ Download this book (PDF, 127.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Data%20Communication.pdf?download=1)
 
 | | |
 |---|---|

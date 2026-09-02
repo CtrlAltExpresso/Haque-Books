@@ -1,6 +1,6 @@
 # Electrical & Electronic
 
-[⬇ Download this book (PDF, 69.1 MB)](https://archive.org/download/haque-books-telecommunication-technology/Electrical%20%26%20Electronic.pdf)
+[⬇ Download this book (PDF, 69.1 MB)](https://archive.org/download/haque-books-telecommunication-technology/Electrical%20%26%20Electronic.pdf?download=1)
 
 | | |
 |---|---|

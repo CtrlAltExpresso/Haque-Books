@@ -1,6 +1,6 @@
 # English-1
 
-[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/English-1.pdf)
+[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/English-1.pdf?download=1)
 
 | | |
 |---|---|

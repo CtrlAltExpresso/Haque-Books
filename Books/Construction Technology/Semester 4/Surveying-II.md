@@ -1,6 +1,6 @@
 # Surveying-II
 
-[⬇ Download this book (PDF, 75.6 MB)](https://archive.org/download/haque-books-construction-technology/Surveying-II.pdf)
+[⬇ Download this book (PDF, 75.6 MB)](https://archive.org/download/haque-books-construction-technology/Surveying-II.pdf?download=1)
 
 | | |
 |---|---|

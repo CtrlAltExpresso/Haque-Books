@@ -1,6 +1,6 @@
 # Social Science
 
-[⬇ Download this book (PDF, 149.7 MB)](https://archive.org/download/haque-books-electrical-technology/Social%20Science.pdf)
+[⬇ Download this book (PDF, 149.7 MB)](https://archive.org/download/haque-books-electrical-technology/Social%20Science.pdf?download=1)
 
 | | |
 |---|---|

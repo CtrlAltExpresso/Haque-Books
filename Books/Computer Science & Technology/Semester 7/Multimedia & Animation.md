@@ -1,6 +1,6 @@
 # Multimedia & Animation
 
-[⬇ Download this book (PDF, 135.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Multimedia%20%26%20Animation.pdf)
+[⬇ Download this book (PDF, 135.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Multimedia%20%26%20Animation.pdf?download=1)
 
 | | |
 |---|---|

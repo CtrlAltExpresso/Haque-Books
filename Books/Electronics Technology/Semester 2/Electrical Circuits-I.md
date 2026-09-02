@@ -1,6 +1,6 @@
 # Electrical Circuits-I
 
-[⬇ Download this book (PDF, 89.7 MB)](https://archive.org/download/haque-books-electronics-technology/Electrical%20Circuits-I.pdf)
+[⬇ Download this book (PDF, 89.7 MB)](https://archive.org/download/haque-books-electronics-technology/Electrical%20Circuits-I.pdf?download=1)
 
 | | |
 |---|---|

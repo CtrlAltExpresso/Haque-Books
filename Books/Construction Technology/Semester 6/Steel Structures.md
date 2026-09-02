@@ -1,6 +1,6 @@
 # Steel Structures
 
-[⬇ Download this book (PDF, 41.1 MB)](https://archive.org/download/haque-books-construction-technology/Steel%20Structures.pdf)
+[⬇ Download this book (PDF, 41.1 MB)](https://archive.org/download/haque-books-construction-technology/Steel%20Structures.pdf?download=1)
 
 | | |
 |---|---|

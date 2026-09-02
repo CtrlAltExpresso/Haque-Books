@@ -1,6 +1,6 @@
 # Physical Education & Life skill Development
 
-[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-chemical-technology/Physical%20Education%20%26%20Life%20skill%20Development.pdf)
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-chemical-technology/Physical%20Education%20%26%20Life%20skill%20Development.pdf?download=1)
 
 | | |
 |---|---|

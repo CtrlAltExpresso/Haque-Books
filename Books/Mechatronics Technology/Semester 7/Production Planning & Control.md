@@ -1,6 +1,6 @@
 # Production Planning & Control
 
-[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-mechatronics-technology/Production%20Planning%20%26%20Control.pdf)
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-mechatronics-technology/Production%20Planning%20%26%20Control.pdf?download=1)
 
 | | |
 |---|---|

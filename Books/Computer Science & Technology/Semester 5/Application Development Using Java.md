@@ -1,6 +1,6 @@
 # Application Development Using Java
 
-[⬇ Download this book (PDF, 86.8 MB)](https://archive.org/download/haque-books-computer-science-technology/Application%20Development%20Using%20Java.pdf)
+[⬇ Download this book (PDF, 86.8 MB)](https://archive.org/download/haque-books-computer-science-technology/Application%20Development%20Using%20Java.pdf?download=1)
 
 | | |
 |---|---|

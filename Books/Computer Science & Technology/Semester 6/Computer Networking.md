@@ -1,6 +1,6 @@
 # Computer Networking
 
-[⬇ Download this book (PDF, 92.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Networking.pdf)
+[⬇ Download this book (PDF, 92.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Networking.pdf?download=1)
 
 | | |
 |---|---|

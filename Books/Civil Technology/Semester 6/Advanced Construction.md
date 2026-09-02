@@ -1,6 +1,6 @@
 # Advanced Construction
 
-[⬇ Download this book (PDF, 69.4 MB)](https://archive.org/download/haque-books-civil-technology/Advanced%20Construction.pdf)
+[⬇ Download this book (PDF, 69.4 MB)](https://archive.org/download/haque-books-civil-technology/Advanced%20Construction.pdf?download=1)
 
 | | |
 |---|---|

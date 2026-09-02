@@ -1,6 +1,6 @@
 # Computer Office Application
 
-[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Computer%20Office%20Application.pdf)
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-land-resources-survey-environment-technology/Computer%20Office%20Application.pdf?download=1)
 
 | | |
 |---|---|

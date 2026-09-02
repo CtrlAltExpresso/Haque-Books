@@ -1,6 +1,6 @@
 # Chemestry
 
-[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Chemestry.pdf)
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Chemestry.pdf?download=1)
 
 | | |
 |---|---|

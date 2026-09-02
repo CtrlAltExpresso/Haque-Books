@@ -1,6 +1,6 @@
 # Estimating & Costing-I
 
-[⬇ Download this book (PDF, 63.3 MB)](https://archive.org/download/haque-books-civil-wood-technology/Estimating%20%26%20Costing-I.pdf)
+[⬇ Download this book (PDF, 63.3 MB)](https://archive.org/download/haque-books-civil-wood-technology/Estimating%20%26%20Costing-I.pdf?download=1)
 
 | | |
 |---|---|

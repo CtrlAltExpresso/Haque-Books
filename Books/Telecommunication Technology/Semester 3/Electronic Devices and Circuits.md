@@ -1,6 +1,6 @@
 # Electronic Devices and Circuits
 
-[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-telecommunication-technology/Electronic%20Devices%20and%20Circuits.pdf)
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-telecommunication-technology/Electronic%20Devices%20and%20Circuits.pdf?download=1)
 
 | | |
 |---|---|

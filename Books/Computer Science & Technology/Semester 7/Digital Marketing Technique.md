@@ -1,6 +1,6 @@
 # Digital Marketing Technique
 
-[⬇ Download this book (PDF, 117.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Digital%20Marketing%20Technique.pdf)
+[⬇ Download this book (PDF, 117.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Digital%20Marketing%20Technique.pdf?download=1)
 
 | | |
 |---|---|

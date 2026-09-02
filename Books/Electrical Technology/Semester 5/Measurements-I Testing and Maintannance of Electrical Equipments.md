@@ -1,6 +1,6 @@
 # Measurements-I Testing and Maintannance of Electrical Equipments
 
-[⬇ Download this book (PDF, 98.3 MB)](https://archive.org/download/haque-books-electrical-technology/Measurements-I%20Testing%20and%20Maintannance%20of%20Electrical%20Equipments.pdf)
+[⬇ Download this book (PDF, 98.3 MB)](https://archive.org/download/haque-books-electrical-technology/Measurements-I%20Testing%20and%20Maintannance%20of%20Electrical%20Equipments.pdf?download=1)
 
 | | |
 |---|---|

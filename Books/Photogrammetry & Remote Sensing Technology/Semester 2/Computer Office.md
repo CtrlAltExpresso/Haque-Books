@@ -1,6 +1,6 @@
 # Computer Office
 
-[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Computer%20Office.pdf)
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Computer%20Office.pdf?download=1)
 
 | | |
 |---|---|

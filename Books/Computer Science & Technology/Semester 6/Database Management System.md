@@ -1,6 +1,6 @@
 # Database Management System
 
-[⬇ Download this book (PDF, 101.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Database%20Management%20System.pdf)
+[⬇ Download this book (PDF, 101.5 MB)](https://archive.org/download/haque-books-computer-science-technology/Database%20Management%20System.pdf?download=1)
 
 | | |
 |---|---|

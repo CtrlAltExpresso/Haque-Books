@@ -1,6 +1,6 @@
 # Mathematics-III
 
-[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Mathematics-III.pdf)
+[⬇ Download this book (PDF, 80.8 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Mathematics-III.pdf?download=1)
 
 | | |
 |---|---|

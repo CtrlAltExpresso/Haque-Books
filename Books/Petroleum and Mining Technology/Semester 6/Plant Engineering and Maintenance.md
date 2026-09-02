@@ -1,6 +1,6 @@
 # Plant Engineering and Maintenance
 
-[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Plant%20Engineering%20and%20Maintenance.pdf)
+[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Plant%20Engineering%20and%20Maintenance.pdf?download=1)
 
 | | |
 |---|---|

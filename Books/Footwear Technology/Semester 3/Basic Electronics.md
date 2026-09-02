@@ -1,6 +1,6 @@
 # Basic Electronics
 
-[⬇ Download this book (PDF, 101.4 MB)](https://archive.org/download/haque-books-footwear-technology/Basic%20Electronics.pdf)
+[⬇ Download this book (PDF, 101.4 MB)](https://archive.org/download/haque-books-footwear-technology/Basic%20Electronics.pdf?download=1)
 
 | | |
 |---|---|

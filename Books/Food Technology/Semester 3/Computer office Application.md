@@ -1,6 +1,6 @@
 # Computer office Application
 
-[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-food-technology/Computer%20office%20Application.pdf)
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-food-technology/Computer%20office%20Application.pdf?download=1)
 
 | | |
 |---|---|

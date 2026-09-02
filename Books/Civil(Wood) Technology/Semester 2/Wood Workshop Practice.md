@@ -1,6 +1,6 @@
 # Wood Workshop Practice
 
-[⬇ Download this book (PDF, 81.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Wood%20Workshop%20Practice.pdf)
+[⬇ Download this book (PDF, 81.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Wood%20Workshop%20Practice.pdf?download=1)
 
 | | |
 |---|---|

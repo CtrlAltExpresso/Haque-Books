@@ -1,6 +1,6 @@
 # Mathematics-II
 
-[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Mathematics-II.pdf)
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Mathematics-II.pdf?download=1)
 
 | | |
 |---|---|

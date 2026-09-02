@@ -1,6 +1,6 @@
 # Machine Shop Practice
 
-[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Machine%20Shop%20Practice.pdf)
+[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Machine%20Shop%20Practice.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Mechanical Measurement &
 
-[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-power-technology/Mechanical%20Measurement%20%26.pdf)
+[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-power-technology/Mechanical%20Measurement%20%26.pdf?download=1)
 
 | | |
 |---|---|

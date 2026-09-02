@@ -1,6 +1,6 @@
 # Physics-I
 
-[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-electromedical-technology/Physics-I.pdf)
+[⬇ Download this book (PDF, 110.1 MB)](https://archive.org/download/haque-books-electromedical-technology/Physics-I.pdf?download=1)
 
 | | |
 |---|---|

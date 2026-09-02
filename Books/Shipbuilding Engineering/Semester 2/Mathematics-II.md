@@ -1,6 +1,6 @@
 # Mathematics-II
 
-[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Mathematics-II.pdf)
+[⬇ Download this book (PDF, 87.5 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Mathematics-II.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Design of Structure -II
 
-[⬇ Download this book (PDF, 114.9 MB)](https://archive.org/download/haque-books-surveying-technology/Design%20of%20Structure%20-II.pdf)
+[⬇ Download this book (PDF, 114.9 MB)](https://archive.org/download/haque-books-surveying-technology/Design%20of%20Structure%20-II.pdf?download=1)
 
 | | |
 |---|---|

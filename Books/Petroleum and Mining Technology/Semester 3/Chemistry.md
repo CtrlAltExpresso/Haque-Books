@@ -1,6 +1,6 @@
 # Chemistry
 
-[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Chemistry.pdf)
+[⬇ Download this book (PDF, 143.9 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Chemistry.pdf?download=1)
 
 | | |
 |---|---|

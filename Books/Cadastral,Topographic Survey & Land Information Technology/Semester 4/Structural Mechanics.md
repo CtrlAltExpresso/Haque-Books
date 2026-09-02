@@ -1,6 +1,6 @@
 # Structural Mechanics
 
-[⬇ Download this book (PDF, 138.2 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Structural%20Mechanics.pdf)
+[⬇ Download this book (PDF, 138.2 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Structural%20Mechanics.pdf?download=1)
 
 | | |
 |---|---|

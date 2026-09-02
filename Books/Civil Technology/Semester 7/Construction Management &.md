@@ -1,6 +1,6 @@
 # Construction Management &
 
-[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-civil-technology/Construction%20Management%20%26.pdf)
+[⬇ Download this book (PDF, 92.0 MB)](https://archive.org/download/haque-books-civil-technology/Construction%20Management%20%26.pdf?download=1)
 
 | | |
 |---|---|

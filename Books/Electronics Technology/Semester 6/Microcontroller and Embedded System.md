@@ -1,6 +1,6 @@
 # Microcontroller and Embedded System
 
-[⬇ Download this book (PDF, 97.9 MB)](https://archive.org/download/haque-books-electronics-technology/Microcontroller%20and%20Embedded%20System.pdf)
+[⬇ Download this book (PDF, 97.9 MB)](https://archive.org/download/haque-books-electronics-technology/Microcontroller%20and%20Embedded%20System.pdf?download=1)
 
 | | |
 |---|---|

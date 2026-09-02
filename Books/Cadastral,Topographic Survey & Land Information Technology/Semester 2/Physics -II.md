@@ -1,6 +1,6 @@
 # Physics -II
 
-[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Physics%20-II.pdf)
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Physics%20-II.pdf?download=1)
 
 | | |
 |---|---|

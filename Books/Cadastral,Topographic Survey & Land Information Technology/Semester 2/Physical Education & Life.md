@@ -1,6 +1,6 @@
 # Physical Education & Life
 
-[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Physical%20Education%20%26%20Life.pdf)
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Physical%20Education%20%26%20Life.pdf?download=1)
 
 | | |
 |---|---|

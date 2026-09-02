@@ -1,6 +1,6 @@
 # Innovation & Entrepreneurship
 
-[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-construction-technology/Innovation%20%26%20Entrepreneurship.pdf)
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-construction-technology/Innovation%20%26%20Entrepreneurship.pdf?download=1)
 
 | | |
 |---|---|

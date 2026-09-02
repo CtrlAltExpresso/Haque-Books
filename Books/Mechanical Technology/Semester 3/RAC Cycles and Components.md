@@ -1,6 +1,6 @@
 # RAC Cycles and Components
 
-[⬇ Download this book (PDF, 89.8 MB)](https://archive.org/download/haque-books-mechanical-technology/RAC%20Cycles%20and%20Components.pdf)
+[⬇ Download this book (PDF, 89.8 MB)](https://archive.org/download/haque-books-mechanical-technology/RAC%20Cycles%20and%20Components.pdf?download=1)
 
 | | |
 |---|---|

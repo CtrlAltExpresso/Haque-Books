@@ -1,6 +1,6 @@
 # Bangla -II
 
-[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Bangla%20-II.pdf)
+[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-avionics/Bangla%20-II.pdf?download=1)
 
 | | |
 |---|---|

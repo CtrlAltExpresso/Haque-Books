@@ -1,6 +1,6 @@
 # Operating System
 
-[⬇ Download this book (PDF, 150.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Operating%20System.pdf)
+[⬇ Download this book (PDF, 150.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Operating%20System.pdf?download=1)
 
 | | |
 |---|---|

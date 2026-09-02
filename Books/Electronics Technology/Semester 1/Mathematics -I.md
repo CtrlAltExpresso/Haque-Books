@@ -1,6 +1,6 @@
 # Mathematics -I
 
-[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-electronics-technology/Mathematics%20-I.pdf)
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-electronics-technology/Mathematics%20-I.pdf?download=1)
 
 | | |
 |---|---|

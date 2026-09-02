@@ -1,6 +1,6 @@
 # Innovation & Entrepreneurship
 
-[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Innovation%20%26%20Entrepreneurship.pdf)
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Innovation%20%26%20Entrepreneurship.pdf?download=1)
 
 | | |
 |---|---|

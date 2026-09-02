@@ -1,6 +1,6 @@
 # Television Engineering
 
-[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-electronics-technology/Television%20Engineering.pdf)
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-electronics-technology/Television%20Engineering.pdf?download=1)
 
 | | |
 |---|---|

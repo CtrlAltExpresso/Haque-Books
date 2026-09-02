@@ -1,6 +1,6 @@
 # Production Planing and Controll
 
-[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Production%20Planing%20and%20Controll.pdf)
+[⬇ Download this book (PDF, 141.9 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Production%20Planing%20and%20Controll.pdf?download=1)
 
 | | |
 |---|---|

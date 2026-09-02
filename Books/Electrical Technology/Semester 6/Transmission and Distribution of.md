@@ -1,6 +1,6 @@
 # Transmission and Distribution of
 
-[⬇ Download this book (PDF, 158.6 MB)](https://archive.org/download/haque-books-electrical-technology/Transmission%20and%20Distribution%20of.pdf)
+[⬇ Download this book (PDF, 158.6 MB)](https://archive.org/download/haque-books-electrical-technology/Transmission%20and%20Distribution%20of.pdf?download=1)
 
 | | |
 |---|---|

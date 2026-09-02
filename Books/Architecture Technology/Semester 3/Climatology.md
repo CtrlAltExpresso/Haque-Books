@@ -1,6 +1,6 @@
 # Climatology
 
-[⬇ Download this book (PDF, 130.2 MB)](https://archive.org/download/haque-books-architecture-technology/Climatology.pdf)
+[⬇ Download this book (PDF, 130.2 MB)](https://archive.org/download/haque-books-architecture-technology/Climatology.pdf?download=1)
 
 | | |
 |---|---|

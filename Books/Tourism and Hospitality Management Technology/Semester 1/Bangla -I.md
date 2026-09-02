@@ -1,6 +1,6 @@
 # Bangla -I
 
-[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Bangla%20-I.pdf)
+[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Bangla%20-I.pdf?download=1)
 
 | | |
 |---|---|

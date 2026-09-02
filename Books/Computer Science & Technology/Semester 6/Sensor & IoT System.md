@@ -1,6 +1,6 @@
 # Sensor & IoT System
 
-[⬇ Download this book (PDF, 92.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Sensor%20%26%20IoT%20System.pdf)
+[⬇ Download this book (PDF, 92.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Sensor%20%26%20IoT%20System.pdf?download=1)
 
 | | |
 |---|---|

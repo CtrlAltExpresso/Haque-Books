@@ -1,6 +1,6 @@
 # Machine Shop Practice I
 
-[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Machine%20Shop%20Practice%20I.pdf)
+[⬇ Download this book (PDF, 111.4 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Machine%20Shop%20Practice%20I.pdf?download=1)
 
 | | |
 |---|---|

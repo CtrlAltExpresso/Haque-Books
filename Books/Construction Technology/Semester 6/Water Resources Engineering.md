@@ -1,6 +1,6 @@
 # Water Resources Engineering
 
-[⬇ Download this book (PDF, 117.5 MB)](https://archive.org/download/haque-books-construction-technology/Water%20Resources%20Engineering.pdf)
+[⬇ Download this book (PDF, 117.5 MB)](https://archive.org/download/haque-books-construction-technology/Water%20Resources%20Engineering.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Computer Peripherals & Interfacing
 
-[⬇ Download this book (PDF, 63.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Peripherals%20%26%20Interfacing.pdf)
+[⬇ Download this book (PDF, 63.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Peripherals%20%26%20Interfacing.pdf?download=1)
 
 | | |
 |---|---|

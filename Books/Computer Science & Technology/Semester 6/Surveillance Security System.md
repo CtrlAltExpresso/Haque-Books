@@ -1,6 +1,6 @@
 # Surveillance Security System
 
-[⬇ Download this book (PDF, 84.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Surveillance%20Security%20System.pdf)
+[⬇ Download this book (PDF, 84.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Surveillance%20Security%20System.pdf?download=1)
 
 | | |
 |---|---|

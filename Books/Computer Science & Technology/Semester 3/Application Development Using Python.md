@@ -1,6 +1,6 @@
 # Application Development Using Python
 
-[⬇ Download this book (PDF, 78.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Application%20Development%20Using%20Python.pdf)
+[⬇ Download this book (PDF, 78.1 MB)](https://archive.org/download/haque-books-computer-science-technology/Application%20Development%20Using%20Python.pdf?download=1)
 
 | | |
 |---|---|

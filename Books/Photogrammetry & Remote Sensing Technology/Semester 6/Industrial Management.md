@@ -1,6 +1,6 @@
 # Industrial Management
 
-[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Industrial%20Management.pdf)
+[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Industrial%20Management.pdf?download=1)
 
 | | |
 |---|---|

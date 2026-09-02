@@ -1,6 +1,6 @@
 # Construction Process-II
 
-[⬇ Download this book (PDF, 141.0 MB)](https://archive.org/download/haque-books-civil-technology/Construction%20Process-II.pdf)
+[⬇ Download this book (PDF, 141.0 MB)](https://archive.org/download/haque-books-civil-technology/Construction%20Process-II.pdf?download=1)
 
 | | |
 |---|---|

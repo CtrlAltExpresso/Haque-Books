@@ -1,6 +1,6 @@
 # Physics-II
 
-[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-power-technology/Physics-II.pdf)
+[⬇ Download this book (PDF, 133.4 MB)](https://archive.org/download/haque-books-power-technology/Physics-II.pdf?download=1)
 
 | | |
 |---|---|

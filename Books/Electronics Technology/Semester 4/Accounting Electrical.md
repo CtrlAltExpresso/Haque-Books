@@ -1,6 +1,6 @@
 # Accounting Electrical
 
-[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-electronics-technology/Accounting%20Electrical.pdf)
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-electronics-technology/Accounting%20Electrical.pdf?download=1)
 
 | | |
 |---|---|

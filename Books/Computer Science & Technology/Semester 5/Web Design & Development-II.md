@@ -1,6 +1,6 @@
 # Web Design & Development-II
 
-[⬇ Download this book (PDF, 75.3 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Design%20%26%20Development-II.pdf)
+[⬇ Download this book (PDF, 75.3 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Design%20%26%20Development-II.pdf?download=1)
 
 | | |
 |---|---|

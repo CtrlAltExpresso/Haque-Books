@@ -1,6 +1,6 @@
 # Sanitary Engineering
 
-[⬇ Download this book (PDF, 122.2 MB)](https://archive.org/download/haque-books-environmental-technology/Sanitary%20Engineering.pdf)
+[⬇ Download this book (PDF, 122.2 MB)](https://archive.org/download/haque-books-environmental-technology/Sanitary%20Engineering.pdf?download=1)
 
 | | |
 |---|---|

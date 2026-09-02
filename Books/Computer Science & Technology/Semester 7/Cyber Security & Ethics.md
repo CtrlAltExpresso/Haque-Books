@@ -1,6 +1,6 @@
 # Cyber Security & Ethics
 
-[⬇ Download this book (PDF, 71.8 MB)](https://archive.org/download/haque-books-computer-science-technology/Cyber%20Security%20%26%20Ethics.pdf)
+[⬇ Download this book (PDF, 71.8 MB)](https://archive.org/download/haque-books-computer-science-technology/Cyber%20Security%20%26%20Ethics.pdf?download=1)
 
 | | |
 |---|---|

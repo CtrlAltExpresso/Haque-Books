@@ -1,6 +1,6 @@
 # Electronic Appliances
 
-[⬇ Download this book (PDF, 36.9 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Appliances.pdf)
+[⬇ Download this book (PDF, 36.9 MB)](https://archive.org/download/haque-books-electronics-technology/Electronic%20Appliances.pdf?download=1)
 
 | | |
 |---|---|

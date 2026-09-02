@@ -1,6 +1,6 @@
 # TV Studio and Broadcasting
 
-[⬇ Download this book (PDF, 71.3 MB)](https://archive.org/download/haque-books-electronics-technology/TV%20Studio%20and%20Broadcasting.pdf)
+[⬇ Download this book (PDF, 71.3 MB)](https://archive.org/download/haque-books-electronics-technology/TV%20Studio%20and%20Broadcasting.pdf?download=1)
 
 | | |
 |---|---|

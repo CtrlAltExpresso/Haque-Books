@@ -1,6 +1,6 @@
 # Basic Workshop Practice
 
-[⬇ Download this book (PDF, 106.9 MB)](https://archive.org/download/haque-books-mechanical-technology/Basic%20Workshop%20Practice.pdf)
+[⬇ Download this book (PDF, 106.9 MB)](https://archive.org/download/haque-books-mechanical-technology/Basic%20Workshop%20Practice.pdf?download=1)
 
 | | |
 |---|---|

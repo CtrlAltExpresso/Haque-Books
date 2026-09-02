@@ -1,6 +1,6 @@
 # Web Development Project
 
-[⬇ Download this book (PDF, 173.7 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Development%20Project.pdf)
+[⬇ Download this book (PDF, 173.7 MB)](https://archive.org/download/haque-books-computer-science-technology/Web%20Development%20Project.pdf?download=1)
 
 | | |
 |---|---|

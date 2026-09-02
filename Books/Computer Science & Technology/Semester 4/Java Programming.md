@@ -1,6 +1,6 @@
 # Java Programming
 
-[⬇ Download this book (PDF, 74.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Java%20Programming.pdf)
+[⬇ Download this book (PDF, 74.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Java%20Programming.pdf?download=1)
 
 | | |
 |---|---|

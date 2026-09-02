@@ -1,6 +1,6 @@
 # English-I
 
-[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-civil-technology/English-I.pdf)
+[⬇ Download this book (PDF, 242.2 MB)](https://archive.org/download/haque-books-civil-technology/English-I.pdf?download=1)
 
 | | |
 |---|---|

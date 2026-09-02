@@ -1,6 +1,6 @@
 # Power Plant Enginnering
 
-[⬇ Download this book (PDF, 144.6 MB)](https://archive.org/download/haque-books-power-technology/Power%20Plant%20Enginnering.pdf)
+[⬇ Download this book (PDF, 144.6 MB)](https://archive.org/download/haque-books-power-technology/Power%20Plant%20Enginnering.pdf?download=1)
 
 | | |
 |---|---|

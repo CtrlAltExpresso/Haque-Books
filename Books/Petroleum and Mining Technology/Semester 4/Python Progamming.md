@@ -1,6 +1,6 @@
 # Python Progamming
 
-[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Python%20Progamming.pdf)
+[⬇ Download this book (PDF, 60.2 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Python%20Progamming.pdf?download=1)
 
 | | |
 |---|---|

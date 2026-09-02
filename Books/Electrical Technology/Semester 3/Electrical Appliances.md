@@ -1,6 +1,6 @@
 # Electrical Appliances
 
-[⬇ Download this book (PDF, 67.9 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Appliances.pdf)
+[⬇ Download this book (PDF, 67.9 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Appliances.pdf?download=1)
 
 | | |
 |---|---|

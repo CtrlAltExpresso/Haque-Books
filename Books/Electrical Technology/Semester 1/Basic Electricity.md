@@ -1,6 +1,6 @@
 # Basic Electricity
 
-[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-electrical-technology/Basic%20Electricity.pdf)
+[⬇ Download this book (PDF, 102.0 MB)](https://archive.org/download/haque-books-electrical-technology/Basic%20Electricity.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Architectural Design-I
 
-[⬇ Download this book (PDF, 196.4 MB)](https://archive.org/download/haque-books-architecture-technology/Architectural%20Design-I.pdf)
+[⬇ Download this book (PDF, 196.4 MB)](https://archive.org/download/haque-books-architecture-technology/Architectural%20Design-I.pdf?download=1)
 
 | | |
 |---|---|

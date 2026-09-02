@@ -1,6 +1,6 @@
 # Foundry & Pattern Making
 
-[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Foundry%20%26%20Pattern%20Making.pdf)
+[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Foundry%20%26%20Pattern%20Making.pdf?download=1)
 
 | | |
 |---|---|

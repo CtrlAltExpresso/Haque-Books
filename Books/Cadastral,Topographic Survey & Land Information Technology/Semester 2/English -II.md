@@ -1,6 +1,6 @@
 # English -II
 
-[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/English%20-II.pdf)
+[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/English%20-II.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Transportation Enggineering-II
 
-[⬇ Download this book (PDF, 119.4 MB)](https://archive.org/download/haque-books-surveying-technology/Transportation%20Enggineering-II.pdf)
+[⬇ Download this book (PDF, 119.4 MB)](https://archive.org/download/haque-books-surveying-technology/Transportation%20Enggineering-II.pdf?download=1)
 
 | | |
 |---|---|

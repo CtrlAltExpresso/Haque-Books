@@ -1,6 +1,6 @@
 # Industrial Management
 
-[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Industrial%20Management.pdf)
+[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Industrial%20Management.pdf?download=1)
 
 | | |
 |---|---|

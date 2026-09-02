@@ -1,6 +1,6 @@
 # Plant Engineering & Maintainance
 
-[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-rac-technology/Plant%20Engineering%20%26%20Maintainance.pdf)
+[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-rac-technology/Plant%20Engineering%20%26%20Maintainance.pdf?download=1)
 
 | | |
 |---|---|

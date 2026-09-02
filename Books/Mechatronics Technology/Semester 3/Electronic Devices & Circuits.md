@@ -1,6 +1,6 @@
 # Electronic Devices & Circuits
 
-[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-mechatronics-technology/Electronic%20Devices%20%26%20Circuits.pdf)
+[⬇ Download this book (PDF, 112.1 MB)](https://archive.org/download/haque-books-mechatronics-technology/Electronic%20Devices%20%26%20Circuits.pdf?download=1)
 
 | | |
 |---|---|

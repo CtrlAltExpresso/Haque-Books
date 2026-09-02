@@ -1,6 +1,6 @@
 # Model Making
 
-[⬇ Download this book (PDF, 121.2 MB)](https://archive.org/download/haque-books-architecture-technology/Model%20Making.pdf)
+[⬇ Download this book (PDF, 121.2 MB)](https://archive.org/download/haque-books-architecture-technology/Model%20Making.pdf?download=1)
 
 | | |
 |---|---|

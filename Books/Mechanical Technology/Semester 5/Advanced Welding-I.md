@@ -1,6 +1,6 @@
 # Advanced Welding-I
 
-[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-mechanical-technology/Advanced%20Welding-I.pdf)
+[⬇ Download this book (PDF, 182.0 MB)](https://archive.org/download/haque-books-mechanical-technology/Advanced%20Welding-I.pdf?download=1)
 
 | | |
 |---|---|

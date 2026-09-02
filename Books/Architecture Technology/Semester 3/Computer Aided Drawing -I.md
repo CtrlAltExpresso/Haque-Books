@@ -1,6 +1,6 @@
 # Computer Aided Drawing -I
 
-[⬇ Download this book (PDF, 112.3 MB)](https://archive.org/download/haque-books-architecture-technology/Computer%20Aided%20Drawing%20-I.pdf)
+[⬇ Download this book (PDF, 112.3 MB)](https://archive.org/download/haque-books-architecture-technology/Computer%20Aided%20Drawing%20-I.pdf?download=1)
 
 | | |
 |---|---|

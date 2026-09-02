@@ -1,6 +1,6 @@
 # Mechanical Measurement & Metrology
 
-[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Measurement%20%26%20Metrology.pdf)
+[⬇ Download this book (PDF, 105.9 MB)](https://archive.org/download/haque-books-mechatronics-technology/Mechanical%20Measurement%20%26%20Metrology.pdf?download=1)
 
 | | |
 |---|---|

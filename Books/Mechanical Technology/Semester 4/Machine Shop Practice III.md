@@ -1,6 +1,6 @@
 # Machine Shop Practice III
 
-[⬇ Download this book (PDF, 45.5 MB)](https://archive.org/download/haque-books-mechanical-technology/Machine%20Shop%20Practice%20III.pdf)
+[⬇ Download this book (PDF, 45.5 MB)](https://archive.org/download/haque-books-mechanical-technology/Machine%20Shop%20Practice%20III.pdf?download=1)
 
 | | |
 |---|---|

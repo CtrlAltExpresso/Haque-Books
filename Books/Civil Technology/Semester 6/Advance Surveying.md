@@ -1,6 +1,6 @@
 # Advance Surveying
 
-[⬇ Download this book (PDF, 59.8 MB)](https://archive.org/download/haque-books-civil-technology/Advance%20Surveying.pdf)
+[⬇ Download this book (PDF, 59.8 MB)](https://archive.org/download/haque-books-civil-technology/Advance%20Surveying.pdf?download=1)
 
 | | |
 |---|---|

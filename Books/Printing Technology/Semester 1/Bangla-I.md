@@ -1,6 +1,6 @@
 # Bangla-I
 
-[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-printing-technology/Bangla-I.pdf)
+[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-printing-technology/Bangla-I.pdf?download=1)
 
 | | |
 |---|---|

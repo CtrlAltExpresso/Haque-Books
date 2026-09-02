@@ -1,6 +1,6 @@
 # Mechanical Estimating & Costing
 
-[⬇ Download this book (PDF, 95.9 MB)](https://archive.org/download/haque-books-mechanical-technology/Mechanical%20Estimating%20%26%20Costing.pdf)
+[⬇ Download this book (PDF, 95.9 MB)](https://archive.org/download/haque-books-mechanical-technology/Mechanical%20Estimating%20%26%20Costing.pdf?download=1)
 
 | | |
 |---|---|

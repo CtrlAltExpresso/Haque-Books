@@ -1,6 +1,6 @@
 # Business communication
 
-[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Business%20communication.pdf)
+[⬇ Download this book (PDF, 60.6 MB)](https://archive.org/download/haque-books-tourism-and-hospitality-management-technology/Business%20communication.pdf?download=1)
 
 | | |
 |---|---|

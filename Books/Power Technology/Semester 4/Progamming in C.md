@@ -1,6 +1,6 @@
 # Progamming in C
 
-[⬇ Download this book (PDF, 143.8 MB)](https://archive.org/download/haque-books-power-technology/Progamming%20in%20C.pdf)
+[⬇ Download this book (PDF, 143.8 MB)](https://archive.org/download/haque-books-power-technology/Progamming%20in%20C.pdf?download=1)
 
 | | |
 |---|---|

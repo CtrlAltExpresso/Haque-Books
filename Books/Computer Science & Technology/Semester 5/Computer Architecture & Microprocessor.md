@@ -1,6 +1,6 @@
 # Computer Architecture & Microprocessor
 
-[⬇ Download this book (PDF, 105.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Architecture%20%26%20Microprocessor.pdf)
+[⬇ Download this book (PDF, 105.6 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Architecture%20%26%20Microprocessor.pdf?download=1)
 
 | | |
 |---|---|

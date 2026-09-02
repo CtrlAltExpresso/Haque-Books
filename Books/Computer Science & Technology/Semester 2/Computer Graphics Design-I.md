@@ -1,6 +1,6 @@
 # Computer Graphics Design-I
 
-[⬇ Download this book (PDF, 70.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Graphics%20Design-I.pdf)
+[⬇ Download this book (PDF, 70.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Computer%20Graphics%20Design-I.pdf?download=1)
 
 | | |
 |---|---|

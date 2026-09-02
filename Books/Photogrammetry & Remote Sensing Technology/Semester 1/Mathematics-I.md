@@ -1,6 +1,6 @@
 # Mathematics-I
 
-[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Mathematics-I.pdf)
+[⬇ Download this book (PDF, 107.4 MB)](https://archive.org/download/haque-books-photogrammetry-remote-sensing-technology/Mathematics-I.pdf?download=1)
 
 | | |
 |---|---|

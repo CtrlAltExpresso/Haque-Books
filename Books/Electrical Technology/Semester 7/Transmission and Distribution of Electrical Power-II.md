@@ -1,6 +1,6 @@
 # Transmission and Distribution of Electrical Power-II
 
-[⬇ Download this book (PDF, 113.5 MB)](https://archive.org/download/haque-books-electrical-technology/Transmission%20and%20Distribution%20of%20Electrical%20Power-II.pdf)
+[⬇ Download this book (PDF, 113.5 MB)](https://archive.org/download/haque-books-electrical-technology/Transmission%20and%20Distribution%20of%20Electrical%20Power-II.pdf?download=1)
 
 | | |
 |---|---|

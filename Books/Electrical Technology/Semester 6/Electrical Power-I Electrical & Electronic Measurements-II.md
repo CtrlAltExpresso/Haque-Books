@@ -1,6 +1,6 @@
 # Electrical Power-I Electrical & Electronic Measurements-II
 
-[⬇ Download this book (PDF, 69.1 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Power-I%20Electrical%20%26%20Electronic%20Measurements-II.pdf)
+[⬇ Download this book (PDF, 69.1 MB)](https://archive.org/download/haque-books-electrical-technology/Electrical%20Power-I%20Electrical%20%26%20Electronic%20Measurements-II.pdf?download=1)
 
 | | |
 |---|---|

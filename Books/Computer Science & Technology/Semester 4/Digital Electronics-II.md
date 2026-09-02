@@ -1,6 +1,6 @@
 # Digital Electronics-II
 
-[⬇ Download this book (PDF, 68.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Digital%20Electronics-II.pdf)
+[⬇ Download this book (PDF, 68.4 MB)](https://archive.org/download/haque-books-computer-science-technology/Digital%20Electronics-II.pdf?download=1)
 
 | | |
 |---|---|

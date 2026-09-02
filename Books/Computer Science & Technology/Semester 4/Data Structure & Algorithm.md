@@ -1,6 +1,6 @@
 # Data Structure & Algorithm
 
-[⬇ Download this book (PDF, 70.9 MB)](https://archive.org/download/haque-books-computer-science-technology/Data%20Structure%20%26%20Algorithm.pdf)
+[⬇ Download this book (PDF, 70.9 MB)](https://archive.org/download/haque-books-computer-science-technology/Data%20Structure%20%26%20Algorithm.pdf?download=1)
 
 | | |
 |---|---|

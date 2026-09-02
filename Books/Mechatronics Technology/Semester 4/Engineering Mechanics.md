@@ -1,6 +1,6 @@
 # Engineering Mechanics
 
-[⬇ Download this book (PDF, 72.7 MB)](https://archive.org/download/haque-books-mechatronics-technology/Engineering%20Mechanics.pdf)
+[⬇ Download this book (PDF, 72.7 MB)](https://archive.org/download/haque-books-mechatronics-technology/Engineering%20Mechanics.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Engineering Drawing
 
-[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-electrical-technology/Engineering%20Drawing.pdf)
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-electrical-technology/Engineering%20Drawing.pdf?download=1)
 
 | | |
 |---|---|

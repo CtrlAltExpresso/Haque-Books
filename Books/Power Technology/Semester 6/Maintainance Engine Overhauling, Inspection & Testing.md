@@ -1,6 +1,6 @@
 # Maintainance Engine Overhauling, Inspection & Testing
 
-[⬇ Download this book (PDF, 101.1 MB)](https://archive.org/download/haque-books-power-technology/Maintainance%20Engine%20Overhauling%2C%20Inspection%20%26%20Testing.pdf)
+[⬇ Download this book (PDF, 101.1 MB)](https://archive.org/download/haque-books-power-technology/Maintainance%20Engine%20Overhauling%2C%20Inspection%20%26%20Testing.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # English-II
 
-[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-civil-wood-technology/English-II.pdf)
+[⬇ Download this book (PDF, 160.1 MB)](https://archive.org/download/haque-books-civil-wood-technology/English-II.pdf?download=1)
 
 | | |
 |---|---|

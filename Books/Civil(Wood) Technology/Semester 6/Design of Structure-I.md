@@ -1,6 +1,6 @@
 # Design of Structure-I
 
-[⬇ Download this book (PDF, 104.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Design%20of%20Structure-I.pdf)
+[⬇ Download this book (PDF, 104.8 MB)](https://archive.org/download/haque-books-civil-wood-technology/Design%20of%20Structure-I.pdf?download=1)
 
 | | |
 |---|---|

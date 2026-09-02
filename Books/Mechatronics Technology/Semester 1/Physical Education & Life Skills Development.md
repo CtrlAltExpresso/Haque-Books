@@ -1,6 +1,6 @@
 # Physical Education & Life Skills Development
 
-[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-mechatronics-technology/Physical%20Education%20%26%20Life%20Skills%20Development.pdf)
+[⬇ Download this book (PDF, 68.0 MB)](https://archive.org/download/haque-books-mechatronics-technology/Physical%20Education%20%26%20Life%20Skills%20Development.pdf?download=1)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Strength of Materials
 
-[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Strength%20of%20Materials.pdf)
+[⬇ Download this book (PDF, 101.3 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Strength%20of%20Materials.pdf?download=1)
 
 | | |
 |---|---|

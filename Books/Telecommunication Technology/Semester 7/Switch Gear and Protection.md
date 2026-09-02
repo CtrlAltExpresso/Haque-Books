@@ -1,6 +1,6 @@
 # Switch Gear and Protection
 
-[⬇ Download this book (PDF, 132.7 MB)](https://archive.org/download/haque-books-telecommunication-technology/Switch%20Gear%20and%20Protection.pdf)
+[⬇ Download this book (PDF, 132.7 MB)](https://archive.org/download/haque-books-telecommunication-technology/Switch%20Gear%20and%20Protection.pdf?download=1)
 
 | | |
 |---|---|

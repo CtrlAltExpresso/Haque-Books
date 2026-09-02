@@ -1,6 +1,6 @@
 # Communication Engineering
 
-[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-electronics-technology/Communication%20Engineering.pdf)
+[⬇ Download this book (PDF, 118.6 MB)](https://archive.org/download/haque-books-electronics-technology/Communication%20Engineering.pdf?download=1)
 
 | | |
 |---|---|

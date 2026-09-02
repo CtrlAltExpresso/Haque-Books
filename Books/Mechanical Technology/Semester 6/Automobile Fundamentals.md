@@ -1,6 +1,6 @@
 # Automobile Fundamentals
 
-[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Automobile%20Fundamentals.pdf)
+[⬇ Download this book (PDF, 139.1 MB)](https://archive.org/download/haque-books-mechanical-technology/Automobile%20Fundamentals.pdf?download=1)
 
 | | |
 |---|---|

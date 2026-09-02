@@ -1,6 +1,6 @@
 # Metrology Plant Engineering &
 
-[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-power-technology/Metrology%20Plant%20Engineering%20%26.pdf)
+[⬇ Download this book (PDF, 108.5 MB)](https://archive.org/download/haque-books-power-technology/Metrology%20Plant%20Engineering%20%26.pdf?download=1)
 
 | | |
 |---|---|

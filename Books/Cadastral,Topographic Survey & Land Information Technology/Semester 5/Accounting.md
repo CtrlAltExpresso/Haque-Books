@@ -1,6 +1,6 @@
 # Accounting
 
-[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Accounting.pdf)
+[⬇ Download this book (PDF, 67.1 MB)](https://archive.org/download/haque-books-cadastral-topographic-survey-land-information-technology/Accounting.pdf?download=1)
 
 | | |
 |---|---|

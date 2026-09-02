@@ -1,6 +1,6 @@
 # Power Equipment Management & Safety
 
-[⬇ Download this book (PDF, 54.5 MB)](https://archive.org/download/haque-books-power-technology/Power%20Equipment%20Management%20%26%20Safety.pdf)
+[⬇ Download this book (PDF, 54.5 MB)](https://archive.org/download/haque-books-power-technology/Power%20Equipment%20Management%20%26%20Safety.pdf?download=1)
 
 | | |
 |---|---|

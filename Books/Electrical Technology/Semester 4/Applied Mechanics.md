@@ -1,6 +1,6 @@
 # Applied Mechanics
 
-[⬇ Download this book (PDF, 78.1 MB)](https://archive.org/download/haque-books-electrical-technology/Applied%20Mechanics.pdf)
+[⬇ Download this book (PDF, 78.1 MB)](https://archive.org/download/haque-books-electrical-technology/Applied%20Mechanics.pdf?download=1)
 
 | | |
 |---|---|

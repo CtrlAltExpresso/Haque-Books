@@ -1,6 +1,6 @@
 # Fluid Mechanics and Machinaries
 
-[⬇ Download this book (PDF, 138.6 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Fluid%20Mechanics%20and%20Machinaries.pdf)
+[⬇ Download this book (PDF, 138.6 MB)](https://archive.org/download/haque-books-petroleum-and-mining-technology/Fluid%20Mechanics%20and%20Machinaries.pdf?download=1)
 
 | | |
 |---|---|

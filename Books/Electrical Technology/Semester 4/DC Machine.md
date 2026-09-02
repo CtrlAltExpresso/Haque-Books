@@ -1,6 +1,6 @@
 # DC Machine
 
-[⬇ Download this book (PDF, 63.8 MB)](https://archive.org/download/haque-books-electrical-technology/DC%20Machine.pdf)
+[⬇ Download this book (PDF, 63.8 MB)](https://archive.org/download/haque-books-electrical-technology/DC%20Machine.pdf?download=1)
 
 | | |
 |---|---|

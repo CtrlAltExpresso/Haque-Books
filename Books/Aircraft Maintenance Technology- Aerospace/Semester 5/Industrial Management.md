@@ -1,6 +1,6 @@
 # Industrial Management
 
-[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Industrial%20Management.pdf)
+[⬇ Download this book (PDF, 103.8 MB)](https://archive.org/download/haque-books-aircraft-maintenance-technology-aerospace/Industrial%20Management.pdf?download=1)
 
 | | |
 |---|---|

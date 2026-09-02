@@ -1,6 +1,6 @@
 # Network Administration & Services
 
-[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Network%20Administration%20%26%20Services.pdf)
+[⬇ Download this book (PDF, 110.2 MB)](https://archive.org/download/haque-books-computer-science-technology/Network%20Administration%20%26%20Services.pdf?download=1)
 
 | | |
 |---|---|

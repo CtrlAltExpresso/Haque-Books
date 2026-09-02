@@ -1,6 +1,6 @@
 # Bangla-II
 
-[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Bangla-II.pdf)
+[⬇ Download this book (PDF, 163.4 MB)](https://archive.org/download/haque-books-shipbuilding-engineering/Bangla-II.pdf?download=1)
 
 | | |
 |---|---|

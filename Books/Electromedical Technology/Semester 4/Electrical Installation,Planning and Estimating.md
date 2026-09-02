@@ -1,6 +1,6 @@
 # Electrical Installation,Planning and Estimating
 
-[⬇ Download this book (PDF, 130.6 MB)](https://archive.org/download/haque-books-electromedical-technology/Electrical%20Installation%2CPlanning%20and%20Estimating.pdf)
+[⬇ Download this book (PDF, 130.6 MB)](https://archive.org/download/haque-books-electromedical-technology/Electrical%20Installation%2CPlanning%20and%20Estimating.pdf?download=1)
 
 | | |
 |---|---|

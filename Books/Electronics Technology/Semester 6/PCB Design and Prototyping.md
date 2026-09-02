@@ -1,6 +1,6 @@
 # PCB Design and Prototyping
 
-[⬇ Download this book (PDF, 84.7 MB)](https://archive.org/download/haque-books-electronics-technology/PCB%20Design%20and%20Prototyping.pdf)
+[⬇ Download this book (PDF, 84.7 MB)](https://archive.org/download/haque-books-electronics-technology/PCB%20Design%20and%20Prototyping.pdf?download=1)
 
 | | |
 |---|---|

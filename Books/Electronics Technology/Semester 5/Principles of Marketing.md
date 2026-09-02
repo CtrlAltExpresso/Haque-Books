@@ -1,6 +1,6 @@
 # Principles of Marketing
 
-[⬇ Download this book (PDF, 91.8 MB)](https://archive.org/download/haque-books-electronics-technology/Principles%20of%20Marketing.pdf)
+[⬇ Download this book (PDF, 91.8 MB)](https://archive.org/download/haque-books-electronics-technology/Principles%20of%20Marketing.pdf?download=1)
 
 | | |
 |---|---|

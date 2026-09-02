@@ -1,6 +1,6 @@
 # AC Machine-II
 
-[⬇ Download this book (PDF, 112.2 MB)](https://archive.org/download/haque-books-electromedical-technology/AC%20Machine-II.pdf)
+[⬇ Download this book (PDF, 112.2 MB)](https://archive.org/download/haque-books-electromedical-technology/AC%20Machine-II.pdf?download=1)
 
 | | |
 |---|---|

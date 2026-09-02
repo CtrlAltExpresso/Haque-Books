@@ -1,6 +1,6 @@
 # Mechatronics & PLC
 
-[⬇ Download this book (PDF, 156.5 MB)](https://archive.org/download/haque-books-rac-technology/Mechatronics%20%26%20PLC.pdf)
+[⬇ Download this book (PDF, 156.5 MB)](https://archive.org/download/haque-books-rac-technology/Mechatronics%20%26%20PLC.pdf?download=1)
 
 | | |
 |---|---|

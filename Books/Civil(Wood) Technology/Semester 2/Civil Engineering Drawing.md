@@ -1,6 +1,6 @@
 # Civil Engineering Drawing
 
-[⬇ Download this book (PDF, 50.4 MB)](https://archive.org/download/haque-books-civil-wood-technology/Civil%20Engineering%20Drawing.pdf)
+[⬇ Download this book (PDF, 50.4 MB)](https://archive.org/download/haque-books-civil-wood-technology/Civil%20Engineering%20Drawing.pdf?download=1)
 
 | | |
 |---|---|

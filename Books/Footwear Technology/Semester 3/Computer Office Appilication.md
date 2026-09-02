@@ -1,6 +1,6 @@
 # Computer Office Appilication
 
-[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-footwear-technology/Computer%20Office%20Appilication.pdf)
+[⬇ Download this book (PDF, 114.3 MB)](https://archive.org/download/haque-books-footwear-technology/Computer%20Office%20Appilication.pdf?download=1)
 
 | | |
 |---|---|
