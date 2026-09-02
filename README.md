@@ -113,6 +113,8 @@ PDF is stored in its department's item, so catalogues/links below point straight
   filename, size (MB), and which archive.zip it came from. **982 rows.**
 - **`catalog_unique.csv`** — each unique subject/code with the list of departments that teach it.
 - **`download.py`** — download a whole department from Internet Archive (or a single subject).
+- **`docs/HOW-IT-WAS-DONE.md`** — the full public methodology write-up.
+- **`scripts/`** — generalized copies of all pipeline scripts.
 
 ## Usage
 
@@ -133,10 +135,18 @@ grep ",25913," manifest.csv
 - Source: the **Poly eBook** Android app (`com.polybook.diploma`) backend API
   (`polyebook3.polyebook.com`) — the complete Haque catalog was recovered by decompiling the
   APK (jadx) and enumerating all books; free downloads.
-- Course structure (department → semester → subject codes from `/home/sakib/Downloads/a.txt`)
-  was used to place each Haque book into every department/semester that teaches it.
+- Course structure (department → semester → subject codes from the BTEB 2022 plan) was used
+  to place each Haque book into every department/semester that teaches it.
 - Coverage of the wider "missing subjects" project: **57 of 556** missing BTEB subject entries
   are covered by this Haque collection.
+
+### Read more
+
+- **[`docs/HOW-IT-WAS-DONE.md`](docs/HOW-IT-WAS-DONE.md)** — a full, public walkthrough of the
+  methodology: APK reverse-engineering, the API auth scheme, the Imunify360 (WAF) bypass with
+  Playwright, catalog enumeration, matching, downloading, and publishing to archive.org/GitHub.
+- **[`scripts/`](scripts/README.md)** — generalized, sanitized copies of every pipeline script,
+  plus the run order and per-script explanation.
 
 ## License / Note
 
